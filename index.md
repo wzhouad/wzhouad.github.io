@@ -19,10 +19,10 @@ I’m a third-year Ph.D. student at University of Southern California, working w
 
 2. **Wenxuan Zhou**, Bill Yuchen Lin, and Xiang Ren. IsoBN: Fine-Tuning BERT with Isotropic Batch Normalization. AAAI 2021.
 
-3. **Wenxuan Zhou**, Hongtao Lin, Bill Yuchen Lin, Ziqi Wang, Junyi Du, Leonardo Neves, and Xiang Ren. NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction (**Honorable Mention Award**). WWW 2020. \[[paper](https://arxiv.org/abs/1909.02177)\] \[[code](https://github.com/INK-USC/NERO)\]
+3. **Wenxuan Zhou**, Hongtao Lin, Bill Yuchen Lin, Ziqi Wang, Junyi Du, Leonardo Neves, and Xiang Ren. NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction (**Honorable Mention Paper**). WWW 2020. \[[paper](https://arxiv.org/abs/1909.02177)\] \[[code](https://github.com/INK-USC/NERO)\] \[[slides](slides/NERO_WWW20.pdf)\]
 
 
-4. Ziqi Wang, Yujia Qin, **Wenxuan Zhou**, Jun Yan, Qinyuan Ye, Leonardo Neves, Zhiyuan Liu, and Xiang Ren. Learning to Annotate: Modularizing Data Augmentation for Text Classifiers with Natural Language Explanations. ICLR 2020. \[[paper](https://arxiv.org/abs/1911.01352)\] \[[code](https://github.com/INK-USC/NExT)\]
+4. Ziqi Wang, Yujia Qin, **Wenxuan Zhou**, Jun Yan, Qinyuan Ye, Leonardo Neves, Zhiyuan Liu, and Xiang Ren. Learning from Explanations with Neural Execution Tree. ICLR 2020. \[[paper](https://arxiv.org/abs/1911.01352)\] \[[code](https://github.com/INK-USC/NExT)\]
 
 
 5. Ziqian Zheng, **Wenxuan Zhou**, Xin Liu, and Yangqiu Song. A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification. NAACL-HLT 2019. \[[paper](https://arxiv.org/abs/1904.05055)\] \[[code](https://github.com/HKUST-KnowComp/VWS-DMSC)\]

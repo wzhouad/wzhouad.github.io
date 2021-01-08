@@ -15,7 +15,7 @@ I’m a third-year Ph.D. student at University of Southern California, working w
 
 ## Publications
 
-1. **Wenxuan Zhou**, Kevin Huang, Tengyu Ma, and Jing Huang. Document-Level Relation Extraction with Adaptive Thresholding and Localized Context Pooling. AAAI 2021. \[[paper](https://arxiv.org/abs/2010.11304)\] \[[code](https://github.com/wzhouad/ATLOP)\]
+1. **Wenxuan Zhou**, Kevin Huang, Tengyu Ma, and Jing Huang. Document-Level Relation Extraction with Adaptive Thresholding and Localized Context Pooling. AAAI 2021. \[[paper](https://arxiv.org/abs/2010.11304)\] \[[code](https://github.com/wzhouad/ATLOP)\] \[[slides](slides/ATLOP_AAAI21.pdf)\]
 
 2. **Wenxuan Zhou**, Bill Yuchen Lin, and Xiang Ren. IsoBN: Fine-Tuning BERT with Isotropic Batch Normalization. AAAI 2021.
 

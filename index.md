@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-I’m a third-year Ph.D. student at University of Southern California, working with [Prof. Jay Pujara](https://www.jaypujara.org/) and [Dr. Muhao Chen](https://muhaochen.github.io/). I'm also fortunate to have worked with [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research interest lies in natural language processing and machine learning. In particular, I'm interested in developing information extraction models with minimal supervision. Before joining USC as a Ph.D. student, I graduated with a Bachelor degree from HKUST in 2018.
+I'm a third-year Ph.D. student at the University of Southern California, working with [Prof. Jay Pujara](https://www.jaypujara.org/) and [Dr. Muhao Chen](https://muhaochen.github.io/). I'm also fortunate to have worked with [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research interest lies in natural language processing and machine learning. In particular, I'm interested in developing information extraction models with minimal supervision. Before joining USC as a Ph.D. student, I graduated with a Bachelor's degree from HKUST in 2018.
 
 ## Education
 * Ph.D. in Computer Science, University of Southern California, Aug. 2018 - Present.
@@ -27,9 +27,12 @@ I’m a third-year Ph.D. student at University of Southern California, working w
 
 5. Ziqian Zheng, **Wenxuan Zhou**, Xin Liu, and Yangqiu Song. A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification. NAACL-HLT 2019. \[[paper](https://arxiv.org/abs/1904.05055)\] \[[code](https://github.com/HKUST-KnowComp/VWS-DMSC)\]
 
+## Preprint
+1. **Wenxuan Zhou**, Muhao Chen. An Improved Baseline for Sentence-level Relation Extraction. Arxiv. \[[paper](https://arxiv.org/abs/2102.01373)\]
+
 ## Work Experience
-* Research Intern, JD AI Research, Mountain View. May 2020 - Aug 2020.
-* Research Intern, Bytedance AI Lab, Beijing. May 2019 - Aug 2019.
+* Research Intern, JD AI Research, Mountain View. May 2020 - Aug 2020. Supervised by Dr. Jing Huang.
+* Research Intern, Bytedance AI Lab, Beijing. May 2019 - Aug 2019. Supervised by Dr. Hang Li.
 
 ## Academic Service
 * Reviewer: ICLR 2019 LLD, ACL 2019 Repl4NLP, EMNLP 2019 / 2020, AAAI 2020 / 2021, ACL 2020, AACL 2020

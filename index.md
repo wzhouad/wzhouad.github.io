@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-I'm a third-year Ph.D. student at the University of Southern California, working with [Prof. Jay Pujara](https://www.jaypujara.org/) and [Dr. Muhao Chen](https://muhaochen.github.io/). I'm also fortunate to have worked with [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research interest lies in natural language processing and machine learning. In particular, I'm interested in developing information extraction models with minimal supervision. Before joining USC as a Ph.D. student, I graduated with a Bachelor's degree from HKUST in 2018.
+I'm a third-year Ph.D. student at the University of Southern California, working with [Prof. Jay Pujara](https://www.jaypujara.org/) and [Prof. Muhao Chen](https://muhaochen.github.io/). I'm also fortunate to have worked with [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research interest lies in natural language processing and machine learning. In particular, I'm interested in developing information extraction models with minimal supervision. Before joining USC as a Ph.D. student, I graduated with a Bachelor's degree from HKUST in 2018.
 
 ## Education
 * Ph.D. in Computer Science, University of Southern California, Aug. 2018 - Present.
@@ -17,7 +17,7 @@ I'm a third-year Ph.D. student at the University of Southern California, working
 
 1. **Wenxuan Zhou**, Kevin Huang, Tengyu Ma, and Jing Huang. Document-Level Relation Extraction with Adaptive Thresholding and Localized Context Pooling. AAAI 2021. \[[paper](https://arxiv.org/abs/2010.11304)\] \[[code](https://github.com/wzhouad/ATLOP)\] \[[slides](slides/ATLOP_AAAI21.pdf)\]
 
-2. **Wenxuan Zhou**, Bill Yuchen Lin, and Xiang Ren. IsoBN: Fine-Tuning BERT with Isotropic Batch Normalization. AAAI 2021.
+2. **Wenxuan Zhou**, Bill Yuchen Lin, and Xiang Ren. IsoBN: Fine-Tuning BERT with Isotropic Batch Normalization. AAAI 2021. \[[paper](https://arxiv.org/abs/2005.02178)\]
 
 3. **Wenxuan Zhou**, Hongtao Lin, Bill Yuchen Lin, Ziqi Wang, Junyi Du, Leonardo Neves, and Xiang Ren. NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction (**Honorable Mention Paper**). WWW 2020. \[[paper](https://arxiv.org/abs/1909.02177)\] \[[code](https://github.com/INK-USC/NERO)\] \[[slides](slides/NERO_WWW20.pdf)\]
 
@@ -27,14 +27,14 @@ I'm a third-year Ph.D. student at the University of Southern California, working
 
 5. Ziqian Zheng, **Wenxuan Zhou**, Xin Liu, and Yangqiu Song. A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification. NAACL-HLT 2019. \[[paper](https://arxiv.org/abs/1904.05055)\] \[[code](https://github.com/HKUST-KnowComp/VWS-DMSC)\]
 
-## Preprint
+## Preprints
 1. **Wenxuan Zhou**, Muhao Chen. An Improved Baseline for Sentence-level Relation Extraction. Arxiv. \[[paper](https://arxiv.org/abs/2102.01373)\]
 
 ## Work Experience
-* Research Intern, JD AI Research, Mountain View. May 2020 - Aug 2020. Supervised by Dr. Jing Huang.
-* Research Intern, Bytedance AI Lab, Beijing. May 2019 - Aug 2019. Supervised by Dr. Hang Li.
+* Research Intern, JD AI Research, Mountain View. May 2020 - Aug 2020. (with [Jing Huang](https://sites.google.com/view/drjinghuang))
+* Research Intern, Bytedance AI Lab, Beijing. May 2019 - Aug 2019. (with Hang Li)
 
-## Academic Service
+## Academic Services
 * Reviewer: ICLR 2019 LLD, ACL 2019 Repl4NLP, EMNLP 2019 / 2020, AAAI 2020 / 2021, ACL 2020, AACL 2020
 
 ## Teaching Experience

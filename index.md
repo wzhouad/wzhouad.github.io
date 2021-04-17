@@ -27,7 +27,7 @@ I'm a third-year Ph.D. student at the University of Southern California, working
 
 5. Ziqian Zheng, **Wenxuan Zhou**, Xin Liu, and Yangqiu Song. A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification. NAACL-HLT 2019. \[[paper](https://arxiv.org/abs/1904.05055)\] \[[code](https://github.com/HKUST-KnowComp/VWS-DMSC)\]
 
-## Preprints
+## Technical Reports
 1. **Wenxuan Zhou**, Muhao Chen. An Improved Baseline for Sentence-level Relation Extraction. Arxiv. \[[paper](https://arxiv.org/abs/2102.01373)\]
 
 ## Work Experience
@@ -35,7 +35,7 @@ I'm a third-year Ph.D. student at the University of Southern California, working
 * Research Intern, Bytedance AI Lab, Beijing. May 2019 - Aug 2019. (with Hang Li)
 
 ## Academic Services
-* Reviewer: ICLR 2019 LLD, ACL 2019 Repl4NLP, EMNLP 2019 / 2020, AAAI 2020 / 2021, ACL 2020, AACL 2020
+* Reviewer: ICLR 2019 LLD, ACL 2019 Repl4NLP, EMNLP 2019 / 2020, AAAI 2020 / 2021, ACL 2020 / 2021, AACL 2020
 
 ## Teaching Experience
 * Teaching Assistant, CSCI 570 Spring 2020 (Analysis of Algorithms)

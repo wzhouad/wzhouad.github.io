@@ -27,6 +27,12 @@ I'm a third-year Ph.D. student at the University of Southern California, working
 
 5. Ziqian Zheng, **Wenxuan Zhou**, Xin Liu, and Yangqiu Song. A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification. NAACL-HLT 2019. \[[paper](https://arxiv.org/abs/1904.05055)\] \[[code](https://github.com/HKUST-KnowComp/VWS-DMSC)\]
 
+## Preprints
+1. **Wenxuan Zhou**, Muhao Chen. Learning from Noisy Labels for Entity-Centric Information Extraction. Arxiv. \[[paper](https://arxiv.org/abs/2104.08656)\]
+
+2. **Wenxuan Zhou**, Muhao Chen. Contrastive Out-of-Distribution Detection for Pretrained Transformers
+. Arxiv. \[[paper](https://arxiv.org/abs/2104.08812)\]
+
 ## Technical Reports
 1. **Wenxuan Zhou**, Muhao Chen. An Improved Baseline for Sentence-level Relation Extraction. Arxiv. \[[paper](https://arxiv.org/abs/2102.01373)\]
 

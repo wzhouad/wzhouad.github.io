@@ -34,7 +34,7 @@ I'm a third-year Ph.D. student at the University of Southern California, working
 . Arxiv. \[[paper](https://arxiv.org/abs/2104.08812)\]
 
 ## Technical Reports
-1. **Wenxuan Zhou**, Muhao Chen. An Improved Baseline for Sentence-level Relation Extraction. Arxiv. \[[paper](https://arxiv.org/abs/2102.01373)\]
+1. **Wenxuan Zhou**, Muhao Chen. An Improved Baseline for Sentence-level Relation Extraction. Arxiv. \[[paper](https://arxiv.org/abs/2102.01373)\] \[[code](https://github.com/wzhouad/RE_improved_baseline)\]
 
 ## Work Experience
 * Research Intern, JD AI Research, Mountain View. May 2020 - Aug 2020. (with [Jing Huang](https://sites.google.com/view/drjinghuang))

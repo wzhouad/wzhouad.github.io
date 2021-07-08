@@ -41,7 +41,10 @@ I'm a third-year Ph.D. student at the University of Southern California working 
 * Research Intern, Bytedance AI Lab, Beijing. May 2019 - Aug 2019. (with Hang Li)
 
 ## Academic Services
-* Reviewer: ICLR 2019 LLD, ACL 2019 Repl4NLP, EMNLP 2019 / 2020, AAAI 2020 / 2021, ACL 2020 / 2021, AACL 2020
+* Reviewer:<br>
+2021: ACL, EMNLP, AAAI, NLPCC, TNNLS<br>
+2020: ACL, EMNLP, AAAI, AACL<br>
+2019: ICLR LLD, ACL Repl4NLP, EMNLP<br>
 
 ## Teaching Experience
 * Teaching Assistant, CSCI 570 Spring 2020 (Analysis of Algorithms)

@@ -15,8 +15,7 @@ I'm a fourth-year Ph.D. student at the University of Southern California working
 
 ## Publications
 
-1. **Wenxuan Zhou**, Fangyu Liu, Muhao Chen. Contrastive Out-of-Distribution Detection for Pretrained Transformers
-. EMNLP 2021. \[[arxiv](https://arxiv.org/abs/2104.08812)\]
+1. **Wenxuan Zhou**, Fangyu Liu, Muhao Chen. Contrastive Out-of-Distribution Detection for Pretrained Transformers. EMNLP 2021. \[[arxiv](https://arxiv.org/abs/2104.08812)\]
 
 2. **Wenxuan Zhou**, Muhao Chen. Learning from Noisy Labels for Entity-Centric Information Extraction. EMNLP 2021. \[[arxiv](https://arxiv.org/abs/2104.08656)\]
 

@@ -43,7 +43,7 @@ I'm a fourth-year Ph.D. student at the University of Southern California working
 
 ## Academic Services
 * Reviewer:<br>
-2022: AAAI
+2022: AAAI<br>
 2021: ACL, EMNLP, AAAI, NLPCC, TNNLS<br>
 2020: ACL, EMNLP, AAAI, AACL<br>
 2019: ICLR LLD, ACL Repl4NLP, EMNLP<br>

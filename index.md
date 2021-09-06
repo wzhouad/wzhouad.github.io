@@ -15,9 +15,9 @@ I'm a fourth-year Ph.D. student at the University of Southern California working
 
 ## Publications
 
-1. **Wenxuan Zhou**, Fangyu Liu, Muhao Chen. Contrastive Out-of-Distribution Detection for Pretrained Transformers. EMNLP 2021. \[[arxiv](https://arxiv.org/abs/2104.08812)\]
+1. **Wenxuan Zhou**, Fangyu Liu, Muhao Chen. Contrastive Out-of-Distribution Detection for Pretrained Transformers. EMNLP 2021. \[[paper](https://arxiv.org/abs/2104.08812)\] \[[code](https://github.com/wzhouad/Contra-OOD)\]
 
-2. **Wenxuan Zhou**, Muhao Chen. Learning from Noisy Labels for Entity-Centric Information Extraction. EMNLP 2021. \[[arxiv](https://arxiv.org/abs/2104.08656)\]
+2. **Wenxuan Zhou**, Muhao Chen. Learning from Noisy Labels for Entity-Centric Information Extraction. EMNLP 2021. \[[paper](https://arxiv.org/abs/2104.08656)\] \[[code](https://github.com/wzhouad/NLL-IE)\]
 
 3. **Wenxuan Zhou**, Kevin Huang, Tengyu Ma, and Jing Huang. Document-Level Relation Extraction with Adaptive Thresholding and Localized Context Pooling. AAAI 2021. \[[paper](https://arxiv.org/abs/2010.11304)\] \[[code](https://github.com/wzhouad/ATLOP)\] \[[slides](slides/ATLOP_AAAI21.pdf)\]
 
@@ -32,7 +32,7 @@ I'm a fourth-year Ph.D. student at the University of Southern California working
 7. Ziqian Zheng, **Wenxuan Zhou**, Xin Liu, and Yangqiu Song. A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification. NAACL-HLT 2019. \[[paper](https://arxiv.org/abs/1904.05055)\] \[[code](https://github.com/HKUST-KnowComp/VWS-DMSC)\]
 
 ## Technical Reports
-1. **Wenxuan Zhou**, Muhao Chen. An Improved Baseline for Sentence-level Relation Extraction. Arxiv. \[[paper](https://arxiv.org/abs/2102.01373)\] \[[code](https://github.com/wzhouad/RE_improved_baseline)\]
+1. **Wenxuan Zhou**, Muhao Chen. An Improved Baseline for Sentence-level Relation Extraction. Arxiv. 2021. \[[paper](https://arxiv.org/abs/2102.01373)\] \[[code](https://github.com/wzhouad/RE_improved_baseline)\]
 
 ## Work Experience
 * Applied Science Intern, Alexa Search, Seattle. May 2021 - Aug 2021. (with [Kevin Small](http://www.kevinsmall.org/) and [Qiang Ning](https://www.qiangning.info/))

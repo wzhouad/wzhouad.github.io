@@ -45,7 +45,7 @@ I'm a fourth-year Ph.D. student at the University of Southern California working
 2022: AAAI<br>
 2021: ACL, EMNLP, AAAI, NLPCC, TNNLS<br>
 2020: ACL, EMNLP, AAAI, AACL<br>
-2019: ICLR LLD, ACL Repl4NLP, EMNLP<br>
+2019: ICLR LLD, Repl4NLP, EMNLP, DeepLo<br>
 
 ## Teaching Experience
 * Teaching Assistant, CSCI 570, Fall 2020 (Analysis of Algorithms)

@@ -34,6 +34,9 @@ I'm a fourth-year Ph.D. student at the University of Southern California working
 ## Technical Reports
 1. **Wenxuan Zhou**, Muhao Chen. An Improved Baseline for Sentence-level Relation Extraction. Arxiv. 2021. \[[paper](https://arxiv.org/abs/2102.01373)\] \[[code](https://github.com/wzhouad/RE_improved_baseline)\]
 
+## Preprints
+1. **Wenxuan Zhou\***, Fangyu Liu\*, Ivan Vulić, Nigel Collier, and Muhao Chen. Prix-LM: Pretraining for Multilingual Knowledge Base Construction. Arxiv. 2021. \[[paper](https://arxiv.org/abs/2110.08443)]
+
 ## Work Experience
 * Applied Science Intern, Alexa Search, Seattle. May 2021 - Aug 2021. (with [Kevin Small](http://www.kevinsmall.org/) and [Qiang Ning](https://www.qiangning.info/))
 * Research Intern, JD AI Research, Mountain View. May 2020 - Aug 2020. (with [Jing Huang](https://sites.google.com/view/drjinghuang))

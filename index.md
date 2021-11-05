@@ -10,14 +10,14 @@ I'm a fourth-year Ph.D. student at the University of Southern California working
 
 ## Education
 * Ph.D. in Computer Science, University of Southern California, Aug. 2018 - Present.
-* B.Sc. in Computer Science and Applied Mathematics, Hong Kong University of Science and Technology, Sep. 2014 - May 2018.
+* B.Sc. in Computer Science and B.Sc. in Applied Mathematics, Hong Kong University of Science and Technology, Sep. 2014 - May 2018.
 * Exchange student, University of Illinois at Urbana–Champaign, Jan. 2017 - May 2017.
 
 ## Publications
 
-1. **Wenxuan Zhou**, Fangyu Liu, Muhao Chen. Contrastive Out-of-Distribution Detection for Pretrained Transformers. EMNLP 2021. \[[paper](https://arxiv.org/abs/2104.08812)\] \[[code](https://github.com/wzhouad/Contra-OOD)\] \[[slides](slides/OOD_EMNLP21.pdf)\]
+1. **Wenxuan Zhou**, Fangyu Liu, and Muhao Chen. Contrastive Out-of-Distribution Detection for Pretrained Transformers. EMNLP 2021. \[[paper](https://arxiv.org/abs/2104.08812)\] \[[code](https://github.com/wzhouad/Contra-OOD)\] \[[slides](slides/OOD_EMNLP21.pdf)\]
 
-2. **Wenxuan Zhou**, Muhao Chen. Learning from Noisy Labels for Entity-Centric Information Extraction. EMNLP 2021. \[[paper](https://arxiv.org/abs/2104.08656)\] \[[code](https://github.com/wzhouad/NLL-IE)\] \[[slides](slides/NLL_EMNLP21.pdf)\]
+2. **Wenxuan Zhou** and Muhao Chen. Learning from Noisy Labels for Entity-Centric Information Extraction. EMNLP 2021. \[[paper](https://arxiv.org/abs/2104.08656)\] \[[code](https://github.com/wzhouad/NLL-IE)\] \[[slides](slides/NLL_EMNLP21.pdf)\]
 
 3. **Wenxuan Zhou**, Kevin Huang, Tengyu Ma, and Jing Huang. Document-Level Relation Extraction with Adaptive Thresholding and Localized Context Pooling. AAAI 2021. \[[paper](https://arxiv.org/abs/2010.11304)\] \[[code](https://github.com/wzhouad/ATLOP)\] \[[slides](slides/ATLOP_AAAI21.pdf)\]
 
@@ -45,7 +45,7 @@ I'm a fourth-year Ph.D. student at the University of Southern California working
 
 ## Academic Services
 * Reviewer:<br>
-2022: AAAI<br>
+2022: AAAI, ARR<br>
 2021: ACL, EMNLP, AAAI, NLPCC, TNNLS<br>
 2020: ACL, EMNLP, AAAI, AACL<br>
 2019: ICLR LLD, Repl4NLP, EMNLP, DeepLo<br>

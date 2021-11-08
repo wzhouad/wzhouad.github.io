@@ -17,7 +17,7 @@ I'm a fourth-year Ph.D. student at the University of Southern California working
 
 1. **Wenxuan Zhou**, Fangyu Liu, and Muhao Chen. Contrastive Out-of-Distribution Detection for Pretrained Transformers. EMNLP 2021. \[[paper](https://arxiv.org/abs/2104.08812)\] \[[code](https://github.com/wzhouad/Contra-OOD)\] \[[slides](slides/OOD_EMNLP21.pdf)\]
 
-2. **Wenxuan Zhou** and Muhao Chen. Learning from Noisy Labels for Entity-Centric Information Extraction. EMNLP 2021. \[[paper](https://arxiv.org/abs/2104.08656)\] \[[code](https://github.com/wzhouad/NLL-IE)\] \[[slides](slides/NLL_EMNLP21.pdf)\] \[[poster](slides/noisy_poster.pdf)\]
+2. **Wenxuan Zhou** and Muhao Chen. Learning from Noisy Labels for Entity-Centric Information Extraction. EMNLP 2021. \[[paper](https://arxiv.org/abs/2104.08656)\] \[[code](https://github.com/wzhouad/NLL-IE)\] \[[slides](slides/NLL_EMNLP21.pdf)\]
 
 3. **Wenxuan Zhou**, Kevin Huang, Tengyu Ma, and Jing Huang. Document-Level Relation Extraction with Adaptive Thresholding and Localized Context Pooling. AAAI 2021. \[[paper](https://arxiv.org/abs/2010.11304)\] \[[code](https://github.com/wzhouad/ATLOP)\] \[[slides](slides/ATLOP_AAAI21.pdf)\]
 

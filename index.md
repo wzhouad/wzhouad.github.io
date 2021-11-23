@@ -21,7 +21,7 @@ I'm a fourth-year Ph.D. student at the University of Southern California working
 
 3. **Wenxuan Zhou**, Kevin Huang, Tengyu Ma, and Jing Huang. Document-Level Relation Extraction with Adaptive Thresholding and Localized Context Pooling. AAAI 2021. \[[paper](https://arxiv.org/abs/2010.11304)\] \[[code](https://github.com/wzhouad/ATLOP)\] \[[slides](slides/ATLOP_AAAI21.pdf)\]
 
-4. **Wenxuan Zhou**, Bill Yuchen Lin, and Xiang Ren. IsoBN: Fine-Tuning BERT with Isotropic Batch Normalization. AAAI 2021. \[[paper](https://arxiv.org/abs/2005.02178)\]
+4. **Wenxuan Zhou**, Bill Yuchen Lin, and Xiang Ren. IsoBN: Fine-Tuning BERT with Isotropic Batch Normalization. AAAI 2021. \[[paper](https://arxiv.org/abs/2005.02178)\] \[[code](https://github.com/INK-USC/IsoBN)\]
 
 5. **Wenxuan Zhou**, Hongtao Lin, Bill Yuchen Lin, Ziqi Wang, Junyi Du, Leonardo Neves, and Xiang Ren. NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction (**Honorable Mention Paper**). WWW 2020. \[[paper](https://arxiv.org/abs/1909.02177)\] \[[code](https://github.com/INK-USC/NERO)\] \[[slides](slides/NERO_WWW20.pdf)\]
 
@@ -38,7 +38,7 @@ I'm a fourth-year Ph.D. student at the University of Southern California working
 1. **Wenxuan Zhou\***, Fangyu Liu\*, Ivan Vulić, Nigel Collier, and Muhao Chen. Prix-LM: Pretraining for Multilingual Knowledge Base Construction. Arxiv. 2021. \[[paper](https://arxiv.org/abs/2110.08443)] \[[code](https://github.com/luka-group/prix-lm)\]
 
 ## Work Experience
-* Applied Science Intern, Alexa Search, Seattle. May 2021 - Aug 2021. (with [Kevin Small](http://www.kevinsmall.org/) and [Qiang Ning](https://www.qiangning.info/))
+* Applied Scientist Intern, Alexa Search, Seattle. May 2021 - Aug 2021. (with [Kevin Small](http://www.kevinsmall.org/) and [Qiang Ning](https://www.qiangning.info/))
 * Research Intern, JD AI Research, Mountain View. May 2020 - Aug 2020. (with [Jing Huang](https://sites.google.com/view/drjinghuang))
 * Research Intern, Bytedance AI Lab, Beijing. May 2019 - Aug 2019. (with Hang Li)
 * Research Intern, HKUST, Hong Kong. July 2017 - Feb. 2018. (with [Yangqiu Song](https://www.cse.ust.hk/~yqsong/))

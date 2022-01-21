@@ -15,9 +15,9 @@ I'm a fourth-year Ph.D. student at the University of Southern California working
 
 ## Publications
 
-1. **Wenxuan Zhou**, Fangyu Liu, and Muhao Chen. Contrastive Out-of-Distribution Detection for Pretrained Transformers. EMNLP 2021. \[[paper](https://arxiv.org/abs/2104.08812)\] \[[code](https://github.com/wzhouad/Contra-OOD)\] \[[slides](slides/OOD_EMNLP21.pdf)\]
+1. **Wenxuan Zhou**, Fangyu Liu, and Muhao Chen. Contrastive Out-of-Distribution Detection for Pretrained Transformers. EMNLP 2021. \[[paper](https://aclanthology.org/2021.emnlp-main.84/)\] \[[code](https://github.com/wzhouad/Contra-OOD)\] \[[slides](slides/OOD_EMNLP21.pdf)\]
 
-2. **Wenxuan Zhou** and Muhao Chen. Learning from Noisy Labels for Entity-Centric Information Extraction. EMNLP 2021. \[[paper](https://arxiv.org/abs/2104.08656)\] \[[code](https://github.com/wzhouad/NLL-IE)\] \[[slides](slides/NLL_EMNLP21.pdf)\]
+2. **Wenxuan Zhou** and Muhao Chen. Learning from Noisy Labels for Entity-Centric Information Extraction. EMNLP 2021. \[[paper](https://aclanthology.org/2021.emnlp-main.437/)\] \[[code](https://github.com/wzhouad/NLL-IE)\] \[[slides](slides/NLL_EMNLP21.pdf)\]
 
 3. **Wenxuan Zhou**, Kevin Huang, Tengyu Ma, and Jing Huang. Document-Level Relation Extraction with Adaptive Thresholding and Localized Context Pooling. AAAI 2021. \[[paper](https://arxiv.org/abs/2010.11304)\] \[[code](https://github.com/wzhouad/ATLOP)\] \[[slides](slides/ATLOP_AAAI21.pdf)\]
 
@@ -29,7 +29,7 @@ I'm a fourth-year Ph.D. student at the University of Southern California working
 6. Ziqi Wang, Yujia Qin, **Wenxuan Zhou**, Jun Yan, Qinyuan Ye, Leonardo Neves, Zhiyuan Liu, and Xiang Ren. Learning from Explanations with Neural Execution Tree. ICLR 2020. \[[paper](https://arxiv.org/abs/1911.01352)\] \[[code](https://github.com/INK-USC/NExT)\]
 
 
-7. Ziqian Zheng, **Wenxuan Zhou**, Xin Liu, and Yangqiu Song. A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification. NAACL-HLT 2019. \[[paper](https://arxiv.org/abs/1904.05055)\] \[[code](https://github.com/HKUST-KnowComp/VWS-DMSC)\]
+7. Ziqian Zheng, **Wenxuan Zhou**, Xin Liu, and Yangqiu Song. A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification. NAACL-HLT 2019. \[[paper](https://aclanthology.org/N19-1036/)\] \[[code](https://github.com/HKUST-KnowComp/VWS-DMSC)\]
 
 ## Technical Reports
 1. **Wenxuan Zhou**, Muhao Chen. An Improved Baseline for Sentence-level Relation Extraction. Arxiv. 2021. \[[paper](https://arxiv.org/abs/2102.01373)\] \[[code](https://github.com/wzhouad/RE_improved_baseline)\]

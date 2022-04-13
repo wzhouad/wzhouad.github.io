@@ -15,11 +15,11 @@ I'm a fourth-year Ph.D. candidate at the University of Southern California worki
 
 ## Publications
 
-1. **Wenxuan Zhou**, Qiang Ning, Heba Elfardy, Kevin Small, Muhao Chen. Answer Consolidation. NAACL 2022.
+1. **Wenxuan Zhou**, Qiang Ning, Heba Elfardy, Kevin Small, and Muhao Chen. Answer Consolidation: Formulation and Benchmarking. NAACL 2022.
 
-1. Yiwei Wang, Muhao Chen, **Wenxuan Zhou**, Yujun Cai, Yuxuan Liang, Dayiheng Liu, Baosong Yang, Juncheng Liu, Bryan Hooi. Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis. NAACL 2022.
+1. Yiwei Wang, Muhao Chen, **Wenxuan Zhou**, Yujun Cai, Yuxuan Liang, Dayiheng Liu, Baosong Yang, Juncheng Liu, and Bryan Hooi. Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis. NAACL 2022.
 
-1. Yiwei Wang, Muhao Chen, **Wenxuan Zhou**, Yujun Cai, Yuxuan Liang, Bryan Hooi. GraphCache: Message Passing as Caching for Sentence-Level Relation Extraction. NAACL-Findings 2022.
+1. Yiwei Wang, Muhao Chen, **Wenxuan Zhou**, Yujun Cai, Yuxuan Liang, and Bryan Hooi. GraphCache: Message Passing as Caching for Sentence-Level Relation Extraction. NAACL-Findings 2022.
 
 1. **Wenxuan Zhou\***, Fangyu Liu\*, Ivan Vulić, Nigel Collier, and Muhao Chen. Prix-LM: Pretraining for Multilingual Knowledge Base Construction. ACL 2022. \[[paper](https://arxiv.org/abs/2110.08443)] \[[code](https://github.com/luka-group/prix-lm)\]
 

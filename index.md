@@ -51,11 +51,15 @@ I'm a fourth-year Ph.D. candidate at the University of Southern California worki
 * Research Intern, HKUST, Hong Kong. July 2017 - Feb. 2018. (with [Yangqiu Song](https://www.cse.ust.hk/~yqsong/))
 
 ## Academic Services
-* Reviewer:<br>
-2022: AAAI, ARR, NCAA<br>
-2021: ACL, EMNLP, AAAI, NLPCC, TNNLS, ARR<br>
+* PC member:<br>
+2022: AAAI, ARR, NLPCC, DeepLo<br>
+2021: ACL, EMNLP, AAAI, NLPCC, ARR<br>
 2020: ACL, EMNLP, AAAI, AACL<br>
-2019: ICLR LLD, Repl4NLP, EMNLP, DeepLo<br>
+2019: LLD, Repl4NLP, EMNLP, DeepLo<br>
+
+* Journal reviewer: TNNLS, NCAA<br>
+
+* Secondary reviewer: WWW 2020<br>
 
 ## Teaching Experience
 * Teaching Assistant, CSCI 570, Fall 2020 (Analysis of Algorithms)

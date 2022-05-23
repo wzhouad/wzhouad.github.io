@@ -21,7 +21,7 @@ I'm a fourth-year Ph.D. candidate at the University of Southern California worki
 
 1. Yiwei Wang, Muhao Chen, **Wenxuan Zhou**, Yujun Cai, Yuxuan Liang, and Bryan Hooi. GraphCache: Message Passing as Caching for Sentence-Level Relation Extraction. NAACL-Findings 2022. \[[paper](https://arxiv.org/abs/2205.03786)]
 
-1. **Wenxuan Zhou\***, Fangyu Liu\*, Ivan Vulić, Nigel Collier, and Muhao Chen. Prix-LM: Pretraining for Multilingual Knowledge Base Construction. ACL 2022. \[[paper](https://arxiv.org/abs/2110.08443)] \[[code](https://github.com/luka-group/prix-lm)\] \[[slides](slides/Pirx-LM_ACL22.pdf)\]
+1. **Wenxuan Zhou\***, Fangyu Liu\*, Ivan Vulić, Nigel Collier, and Muhao Chen. Prix-LM: Pretraining for Multilingual Knowledge Base Construction. ACL 2022. \[[paper](https://aclanthology.org/2022.acl-long.371/)] \[[code](https://github.com/luka-group/prix-lm)\] \[[slides](slides/Pirx-LM_ACL22.pdf)\]
 
 1. **Wenxuan Zhou**, Fangyu Liu, and Muhao Chen. Contrastive Out-of-Distribution Detection for Pretrained Transformers. EMNLP 2021. \[[paper](https://aclanthology.org/2021.emnlp-main.84/)\] \[[code](https://github.com/wzhouad/Contra-OOD)\] \[[slides](slides/OOD_EMNLP21.pdf)\]
 
@@ -43,6 +43,8 @@ I'm a fourth-year Ph.D. candidate at the University of Southern California worki
 ## Preprints
 
 1. **Wenxuan Zhou**, Fangyu Liu, Muhao Chen. Sharpness-Aware Minimization with Dynamic Reweighting. Arxiv. 2021. \[[paper](https://arxiv.org/abs/2112.08772)]
+
+2. Keming Lu, I-Hung Hsu, **Wenxuan Zhou**, Mingyu Derek Ma, Muhao Chen. Summarization as Indirect Supervision for Relation Extraction. \[[paper](https://arxiv.org/abs/2205.09837)\] \[[code](https://github.com/luka-group/SuRE)\]
 
 ## Work Experience
 * Applied Scientist Intern, Amazon Alexa Search, Seattle. May 2021 - Aug 2021. (with [Kevin Small](http://www.kevinsmall.org/) and [Qiang Ning](https://www.qiangning.info/))

@@ -42,11 +42,12 @@ I'm a fourth-year Ph.D. candidate at the University of Southern California worki
 
 ## Preprints
 
-1. **Wenxuan Zhou**, Fangyu Liu, Muhao Chen. Sharpness-Aware Minimization with Dynamic Reweighting. Arxiv. 2021. \[[paper](https://arxiv.org/abs/2112.08772)]
+1. **Wenxuan Zhou**, Fangyu Liu, Huan Zhang, Muhao Chen. Sharpness-Aware Minimization with Dynamic Reweighting. Arxiv. 2021. \[[paper](https://arxiv.org/abs/2112.08772)]
 
 2. Keming Lu, I-Hung Hsu, **Wenxuan Zhou**, Mingyu Derek Ma, Muhao Chen. Summarization as Indirect Supervision for Relation Extraction. \[[paper](https://arxiv.org/abs/2205.09837)\] \[[code](https://github.com/luka-group/SuRE)\]
 
 ## Work Experience
+* Research Intern, Microsoft Research, Redmond. May 2022 - Aug 2022.
 * Applied Scientist Intern, Amazon Alexa Search, Seattle. May 2021 - Aug 2021. (with [Kevin Small](http://www.kevinsmall.org/) and [Qiang Ning](https://www.qiangning.info/))
 * Research Intern, JD AI Research, Mountain View. May 2020 - Aug 2020. (with [Jing Huang](https://sites.google.com/view/drjinghuang))
 * Research Intern, Bytedance AI Lab, Beijing. May 2019 - Aug 2019. (with Hang Li)

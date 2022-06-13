@@ -15,7 +15,7 @@ I'm a fourth-year Ph.D. candidate at the University of Southern California worki
 
 ## Publications
 
-1. **Wenxuan Zhou**, Qiang Ning, Heba Elfardy, Kevin Small, and Muhao Chen. Answer Consolidation: Formulation and Benchmarking. NAACL 2022. \[[paper](https://arxiv.org/abs/2205.00042)] \[[code](https://github.com/amazon-research/question-answer-consolidation)\]
+1. **Wenxuan Zhou**, Qiang Ning, Heba Elfardy, Kevin Small, and Muhao Chen. Answer Consolidation: Formulation and Benchmarking. NAACL 2022. \[[paper](https://arxiv.org/abs/2205.00042)] \[[code](https://github.com/amazon-research/question-answer-consolidation)\] \[[slides](slides/Quasi_NAACL22.pdf)\]
 
 1. Yiwei Wang, Muhao Chen, **Wenxuan Zhou**, Yujun Cai, Yuxuan Liang, Dayiheng Liu, Baosong Yang, Juncheng Liu, and Bryan Hooi. Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis. NAACL 2022. \[[paper](https://arxiv.org/abs/2205.03784)] \[[code](https://github.com/vanoracai/CoRE)\]
 

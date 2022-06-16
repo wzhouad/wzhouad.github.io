@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-I'm a fourth-year Ph.D. candidate at the University of Southern California working with [Prof. Muhao Chen](https://muhaochen.github.io/). I'm also fortunate to have worked with [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research interest lies in natural language processing and machine learning. In particular, I'm interested in developing information extraction models with minimal supervision. Before joining USC as a Ph.D. student, I graduated with a Bachelor's degree from HKUST in 2018.
+I'm a fourth-year Ph.D. candidate at University of Southern California working with [Prof. Muhao Chen](https://muhaochen.github.io/). I'm also fortunate to have worked with [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research interest lies in natural language processing and machine learning. In particular, I'm interested in developing information extraction models with minimal supervision. Before joining USC as a Ph.D. student, I graduated with a Bachelor's degree from HKUST in 2018.
 
 ## Education
 * Ph.D. in Computer Science, University of Southern California, Aug. 2018 - Present.
@@ -47,7 +47,7 @@ I'm a fourth-year Ph.D. candidate at the University of Southern California worki
 2. Keming Lu, I-Hung Hsu, **Wenxuan Zhou**, Mingyu Derek Ma, Muhao Chen. Summarization as Indirect Supervision for Relation Extraction. \[[paper](https://arxiv.org/abs/2205.09837)\] \[[code](https://github.com/luka-group/SuRE)\]
 
 ## Work Experience
-* Research Intern, Microsoft Research, Redmond. May 2022 - Aug 2022.
+* Research Intern, Microsoft Research, Redmond. May 2022 - Aug 2022. (with Sheng Zhang, Tristan Naumann, and Hoifung Poon)
 * Applied Scientist Intern, Amazon Alexa Search, Seattle. May 2021 - Aug 2021. (with [Kevin Small](http://www.kevinsmall.org/) and [Qiang Ning](https://www.qiangning.info/))
 * Research Intern, JD AI Research, Mountain View. May 2020 - Aug 2020. (with [Jing Huang](https://sites.google.com/view/drjinghuang))
 * Research Intern, Bytedance AI Lab, Beijing. May 2019 - Aug 2019. (with Hang Li)
@@ -55,7 +55,7 @@ I'm a fourth-year Ph.D. candidate at the University of Southern California worki
 
 ## Academic Services
 * PC member:<br>
-2022: AAAI, ARR, NLPCC, DeepLo<br>
+2022: AAAI, ARR, NLPCC, DeepLo, AACL<br>
 2021: ACL, EMNLP, AAAI, NLPCC, ARR<br>
 2020: ACL, EMNLP, AAAI, AACL<br>
 2019: LLD, Repl4NLP, EMNLP, DeepLo<br>

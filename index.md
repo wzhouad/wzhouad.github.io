@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-I'm a fourth-year Ph.D. candidate at University of Southern California working with [Prof. Muhao Chen](https://muhaochen.github.io/). I'm also fortunate to have worked with [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research interest lies in natural language processing and machine learning. In particular, I'm interested in developing information extraction models with minimal supervision. Before joining USC as a Ph.D. student, I graduated with a Bachelor's degree from HKUST in 2018.
+I'm a final-year Ph.D. candidate at University of Southern California working with [Prof. Muhao Chen](https://muhaochen.github.io/). I'm also fortunate to have worked with [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research interest lies in natural language processing and machine learning. In particular, I'm interested in developing information extraction models with minimal supervision. Before joining USC as a Ph.D. student, I graduated with a Bachelor's degree from HKUST in 2018.
 
 ## Education
 * Ph.D. in Computer Science, University of Southern California, Aug. 2018 - Present.
@@ -55,7 +55,8 @@ I'm a fourth-year Ph.D. candidate at University of Southern California working w
 
 ## Academic Services
 * PC member:<br>
-2022: AAAI, ARR, NLPCC, DeepLo, AACL<br>
+2023: AAAI<br>
+2022: AAAI, ARR, NLPCC, DeepLo, AACL, EMNLP<br>
 2021: ACL, EMNLP, AAAI, NLPCC, ARR<br>
 2020: ACL, EMNLP, AAAI, AACL<br>
 2019: LLD, Repl4NLP, EMNLP, DeepLo<br>

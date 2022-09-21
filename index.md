@@ -15,6 +15,8 @@ I'm a final-year Ph.D. candidate at University of Southern California working wi
 
 ## Publications
 
+1. **Wenxuan Zhou**, Muhao Chen. An Improved Baseline for Sentence-level Relation Extraction. AACL-IJCNLP 2022 (short). \[[paper](https://arxiv.org/abs/2102.01373)\] \[[code](https://github.com/wzhouad/RE_improved_baseline)\]
+
 1. **Wenxuan Zhou**, Qiang Ning, Heba Elfardy, Kevin Small, and Muhao Chen. Answer Consolidation: Formulation and Benchmarking. NAACL 2022. \[[paper](https://arxiv.org/abs/2205.00042)] \[[code](https://github.com/amazon-research/question-answer-consolidation)\] \[[slides](slides/Quasi_NAACL22.pdf)\]
 
 1. Yiwei Wang, Muhao Chen, **Wenxuan Zhou**, Yujun Cai, Yuxuan Liang, Dayiheng Liu, Baosong Yang, Juncheng Liu, and Bryan Hooi. Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis. NAACL 2022. \[[paper](https://arxiv.org/abs/2205.03784)] \[[code](https://github.com/vanoracai/CoRE)\]
@@ -36,9 +38,6 @@ I'm a final-year Ph.D. candidate at University of Southern California working wi
 1. Ziqi Wang, Yujia Qin, **Wenxuan Zhou**, Jun Yan, Qinyuan Ye, Leonardo Neves, Zhiyuan Liu, and Xiang Ren. Learning from Explanations with Neural Execution Tree. ICLR 2020. \[[paper](https://arxiv.org/abs/1911.01352)\] \[[code](https://github.com/INK-USC/NExT)\]
 
 1. Ziqian Zheng, **Wenxuan Zhou**, Xin Liu, and Yangqiu Song. A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification. NAACL-HLT 2019. \[[paper](https://aclanthology.org/N19-1036/)\] \[[code](https://github.com/HKUST-KnowComp/VWS-DMSC)\]
-
-## Technical Reports
-1. **Wenxuan Zhou**, Muhao Chen. An Improved Baseline for Sentence-level Relation Extraction. Arxiv. 2021. \[[paper](https://arxiv.org/abs/2102.01373)\] \[[code](https://github.com/wzhouad/RE_improved_baseline)\]
 
 ## Preprints
 

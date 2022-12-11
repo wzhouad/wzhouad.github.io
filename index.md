@@ -19,7 +19,7 @@ I'm a final-year Ph.D. candidate at University of Southern California working wi
 
 1. Keming Lu, I-Hung Hsu, **Wenxuan Zhou**, Mingyu Derek Ma, Muhao Chen. Summarization as Indirect Supervision for Relation Extraction. EMNLP-Findings 2022. \[[paper](https://arxiv.org/abs/2205.09837)\] \[[code](https://github.com/luka-group/SuRE)\]
 
-1. **Wenxuan Zhou**, Muhao Chen. An Improved Baseline for Sentence-level Relation Extraction. AACL-IJCNLP 2022 (short). \[[paper](https://arxiv.org/abs/2102.01373)\] \[[code](https://github.com/wzhouad/RE_improved_baseline)\]
+1. **Wenxuan Zhou**, Muhao Chen. An Improved Baseline for Sentence-level Relation Extraction. AACL-IJCNLP 2022 (short). \[[paper](https://aclanthology.org/2022.aacl-short.21/)\] \[[code](https://github.com/wzhouad/RE_improved_baseline)\] \[[slides](slides/IRE_AACL22.pdf)\]
 
 1. **Wenxuan Zhou**, Qiang Ning, Heba Elfardy, Kevin Small, and Muhao Chen. Answer Consolidation: Formulation and Benchmarking. NAACL 2022. \[[paper](https://arxiv.org/abs/2205.00042)] \[[code](https://github.com/amazon-research/question-answer-consolidation)\] \[[slides](slides/Quasi_NAACL22.pdf)\]
 

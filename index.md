@@ -44,13 +44,13 @@ I'm a final-year Ph.D. candidate at University of Southern California working wi
 1. Ziqian Zheng, **Wenxuan Zhou**, Xin Liu, and Yangqiu Song. A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification. NAACL-HLT 2019. \[[paper](https://aclanthology.org/N19-1036/)\] \[[code](https://github.com/HKUST-KnowComp/VWS-DMSC)\]
 
 ## Preprints
-1. Xiaoocong Yang, James Y. Huang, **Wenxuan Zhou**, Muhao Chen. Parameter-Efficient Tuning with Special Token Adaptation. Arxiv 2022.\[[paper](https://arxiv.org/abs/2210.04382)\] \[[code](https://github.com/luka-group/PASTA)\]
+1. Xiaoocong Yang, James Y. Huang, **Wenxuan Zhou**, Muhao Chen. Parameter-Efficient Tuning with Special Token Adaptation. Arxiv 2022. \[[paper](https://arxiv.org/abs/2210.04382)\] \[[code](https://github.com/luka-group/PASTA)\]
 
-1. Keming Lu, I Hsu, **Wenxuan Zhou**, Mingyu Derek Ma, Muhao Chen. Multi-hop Evidence Retrieval for Cross-document Relation Extraction. Arxiv 2022.\[[paper](https://arxiv.org/abs/2212.10786)\]
+1. Keming Lu, I Hsu, **Wenxuan Zhou**, Mingyu Derek Ma, Muhao Chen. Multi-hop Evidence Retrieval for Cross-document Relation Extraction. Arxiv 2022. \[[paper](https://arxiv.org/abs/2212.10786)\]
 
-1. **Wenxuan Zhou**, Sheng Zhang, Tristan Naumann, Muhao Chen, Hoifung Poon. Continual Contrastive Finetuning Improves Low-Resource Relation Extraction. Arxiv 2022.\[[paper](https://arxiv.org/abs/2212.10823)\]
+1. **Wenxuan Zhou**, Sheng Zhang, Tristan Naumann, Muhao Chen, Hoifung Poon. Continual Contrastive Finetuning Improves Low-Resource Relation Extraction. Arxiv 2022. \[[paper](https://arxiv.org/abs/2212.10823)\]
 
-1. Tianqing Fang, **Wenxuan Zhou**, Fangyu Liu, Hongming Zhang, Yangqiu Song, Muhao Chen. On-the-fly Denoising for Data Augmentation in Natural Language Understanding. Arxiv 2022.\[[paper](https://arxiv.org/abs/2212.10558)\]
+1. Tianqing Fang, **Wenxuan Zhou**, Fangyu Liu, Hongming Zhang, Yangqiu Song, Muhao Chen. On-the-fly Denoising for Data Augmentation in Natural Language Understanding. Arxiv 2022. \[[paper](https://arxiv.org/abs/2212.10558)\]
 
 
 ## Work Experience

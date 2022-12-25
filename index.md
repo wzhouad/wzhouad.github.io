@@ -46,6 +46,13 @@ I'm a final-year Ph.D. candidate at University of Southern California working wi
 ## Preprints
 1. Xiaoocong Yang, James Y. Huang, **Wenxuan Zhou**, Muhao Chen. Parameter-Efficient Tuning with Special Token Adaptation. Arxiv 2022.\[[paper](https://arxiv.org/abs/2210.04382)\] \[[code](https://github.com/luka-group/PASTA)\]
 
+1. Keming Lu, I Hsu, **Wenxuan Zhou**, Mingyu Derek Ma, Muhao Chen. Multi-hop Evidence Retrieval for Cross-document Relation Extraction. Arxiv 2022.\[[paper](https://arxiv.org/abs/2212.10786)\]
+
+1. **Wenxuan Zhou**, Sheng Zhang, Tristan Naumann, Muhao Chen, Hoifung Poon. Continual Contrastive Finetuning Improves Low-Resource Relation Extraction. Arxiv 2022.\[[paper](https://arxiv.org/abs/2212.10823)\]
+
+1. Tianqing Fang, **Wenxuan Zhou**, Fangyu Liu, Hongming Zhang, Yangqiu Song, Muhao Chen. On-the-fly Denoising for Data Augmentation in Natural Language Understanding. Arxiv 2022.\[[paper](https://arxiv.org/abs/2212.10558)\]
+
+
 ## Work Experience
 * Research Intern, Microsoft Research, Redmond. May 2022 - Aug 2022. (with [Sheng Zhang](https://sheng-z.github.io/), [Tristan Naumann](https://www.microsoft.com/en-us/research/people/tristan/), and [Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung/))
 * Applied Scientist Intern, Amazon Alexa Search, Seattle. May 2021 - Aug 2021. (with [Kevin Small](http://www.kevinsmall.org/) and [Qiang Ning](https://www.qiangning.info/))
@@ -55,7 +62,7 @@ I'm a final-year Ph.D. candidate at University of Southern California working wi
 
 ## Academic Services
 * PC member:<br>
-2023: AAAI<br>
+2023: AAAI, ACL<br>
 2022: AAAI, ARR, NLPCC, DeepLo, AACL, EMNLP<br>
 2021: ACL, EMNLP, AAAI, NLPCC, ARR<br>
 2020: ACL, EMNLP, AAAI, AACL<br>

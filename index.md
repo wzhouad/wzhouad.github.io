@@ -15,6 +15,8 @@ I'm a final-year Ph.D. candidate at University of Southern California working wi
 
 ## Publications
 
+1. Xiaoocong Yang, James Y. Huang, **Wenxuan Zhou**, Muhao Chen. Parameter-Efficient Tuning with Special Token Adaptation. EACL 2023. \[[paper](https://arxiv.org/abs/2210.04382)\] \[[code](https://github.com/luka-group/PASTA)\]
+
 1. **Wenxuan Zhou**, Fangyu Liu, Huan Zhang, Muhao Chen. Sharpness-Aware Minimization with Dynamic Reweighting. EMNLP-Findings 2022. \[[paper](https://arxiv.org/abs/2112.08772)]
 
 1. Keming Lu, I-Hung Hsu, **Wenxuan Zhou**, Mingyu Derek Ma, Muhao Chen. Summarization as Indirect Supervision for Relation Extraction. EMNLP-Findings 2022. \[[paper](https://arxiv.org/abs/2205.09837)\] \[[code](https://github.com/luka-group/SuRE)\]
@@ -44,7 +46,6 @@ I'm a final-year Ph.D. candidate at University of Southern California working wi
 1. Ziqian Zheng, **Wenxuan Zhou**, Xin Liu, and Yangqiu Song. A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification. NAACL-HLT 2019. \[[paper](https://aclanthology.org/N19-1036/)\] \[[code](https://github.com/HKUST-KnowComp/VWS-DMSC)\]
 
 ## Preprints
-1. Xiaoocong Yang, James Y. Huang, **Wenxuan Zhou**, Muhao Chen. Parameter-Efficient Tuning with Special Token Adaptation. Arxiv 2022. \[[paper](https://arxiv.org/abs/2210.04382)\] \[[code](https://github.com/luka-group/PASTA)\]
 
 1. Keming Lu, I Hsu, **Wenxuan Zhou**, Mingyu Derek Ma, Muhao Chen. Multi-hop Evidence Retrieval for Cross-document Relation Extraction. Arxiv 2022. \[[paper](https://arxiv.org/abs/2212.10786)\]
 

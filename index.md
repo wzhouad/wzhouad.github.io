@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-I'm a final-year Ph.D. candidate at University of Southern California working with [Prof. Muhao Chen](https://muhaochen.github.io/). I'm also fortunate to have worked with [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research interest lies in natural language processing and machine learning. In particular, I'm interested in developing robust and generalizable information extraction systems. Before joining USC as a Ph.D. student, I graduated with a Bachelor's degree from HKUST in 2018.
+I'm a final-year Ph.D. candidate at University of Southern California working with [Prof. Muhao Chen](https://muhaochen.github.io/). I'm also fortunate to have worked with [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research interest lies in natural language processing and machine learning. In particular, I'm interested in developing robust and generalizable knowledge acquisition applications. Before joining USC as a Ph.D. student, I graduated with a Bachelor's degree from HKUST in 2018.
 
 ## Education
 * Ph.D. in Computer Science, University of Southern California, Aug. 2018 - Present.
@@ -47,6 +47,8 @@ I'm a final-year Ph.D. candidate at University of Southern California working wi
 
 ## Preprints
 
+1. **Wenxuan Zhou**, Sheng Zhang, Hoifung Poon, Muhao Chen. Context-faithful Prompting for Large Language Models. Arxiv 2023. \[[paper](https://arxiv.org/abs/2303.11315)\] \[[code](https://github.com/wzhouad/context-faithful-llm)\]
+
 1. Keming Lu, I Hsu, **Wenxuan Zhou**, Mingyu Derek Ma, Muhao Chen. Multi-hop Evidence Retrieval for Cross-document Relation Extraction. Arxiv 2022. \[[paper](https://arxiv.org/abs/2212.10786)\]
 
 1. **Wenxuan Zhou**, Sheng Zhang, Tristan Naumann, Muhao Chen, Hoifung Poon. Continual Contrastive Finetuning Improves Low-Resource Relation Extraction. Arxiv 2022. \[[paper](https://arxiv.org/abs/2212.10823)\]
@@ -63,7 +65,7 @@ I'm a final-year Ph.D. candidate at University of Southern California working wi
 
 ## Academic Services
 * PC member:<br>
-2023: AAAI, ACL<br>
+2023: AAAI, ACL, ARR<br>
 2022: AAAI, ARR, NLPCC, DeepLo, AACL, EMNLP<br>
 2021: ACL, EMNLP, AAAI, NLPCC, ARR<br>
 2020: ACL, EMNLP, AAAI, AACL<br>

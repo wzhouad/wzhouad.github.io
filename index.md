@@ -15,7 +15,11 @@ I'm a final-year Ph.D. candidate at University of Southern California working wi
 
 ## Publications
 
+### 2023
+
 1. Xiaoocong Yang, James Y. Huang, **Wenxuan Zhou**, Muhao Chen. Parameter-Efficient Tuning with Special Token Adaptation. EACL 2023. \[[paper](https://arxiv.org/abs/2210.04382)\] \[[code](https://github.com/luka-group/PASTA)\]
+
+### 2022
 
 1. **Wenxuan Zhou**, Fangyu Liu, Huan Zhang, Muhao Chen. Sharpness-Aware Minimization with Dynamic Reweighting. EMNLP-Findings 2022. \[[paper](https://arxiv.org/abs/2112.08772)]
 
@@ -31,6 +35,8 @@ I'm a final-year Ph.D. candidate at University of Southern California working wi
 
 1. **Wenxuan Zhou\***, Fangyu Liu\*, Ivan Vulić, Nigel Collier, and Muhao Chen. Prix-LM: Pretraining for Multilingual Knowledge Base Construction. ACL 2022. \[[paper](https://aclanthology.org/2022.acl-long.371/)] \[[code](https://github.com/luka-group/prix-lm)\] \[[slides](slides/Pirx-LM_ACL22.pdf)\]
 
+### 2021
+
 1. **Wenxuan Zhou**, Fangyu Liu, and Muhao Chen. Contrastive Out-of-Distribution Detection for Pretrained Transformers. EMNLP 2021. \[[paper](https://aclanthology.org/2021.emnlp-main.84/)\] \[[code](https://github.com/wzhouad/Contra-OOD)\] \[[slides](slides/OOD_EMNLP21.pdf)\]
 
 1. **Wenxuan Zhou** and Muhao Chen. Learning from Noisy Labels for Entity-Centric Information Extraction. EMNLP 2021. \[[paper](https://aclanthology.org/2021.emnlp-main.437/)\] \[[code](https://github.com/wzhouad/NLL-IE)\] \[[slides](slides/NLL_EMNLP21.pdf)\]
@@ -39,9 +45,13 @@ I'm a final-year Ph.D. candidate at University of Southern California working wi
 
 1. **Wenxuan Zhou**, Bill Yuchen Lin, and Xiang Ren. IsoBN: Fine-Tuning BERT with Isotropic Batch Normalization. AAAI 2021. \[[paper](https://arxiv.org/abs/2005.02178)\] \[[code](https://github.com/INK-USC/IsoBN)\]
 
+### 2020
+
 1. **Wenxuan Zhou**, Hongtao Lin, Bill Yuchen Lin, Ziqi Wang, Junyi Du, Leonardo Neves, and Xiang Ren. NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction (**Honorable Mention Paper**). WWW 2020. \[[paper](https://arxiv.org/abs/1909.02177)\] \[[code](https://github.com/INK-USC/NERO)\] \[[slides](slides/NERO_WWW20.pdf)\]
 
 1. Ziqi Wang, Yujia Qin, **Wenxuan Zhou**, Jun Yan, Qinyuan Ye, Leonardo Neves, Zhiyuan Liu, and Xiang Ren. Learning from Explanations with Neural Execution Tree. ICLR 2020. \[[paper](https://arxiv.org/abs/1911.01352)\] \[[code](https://github.com/INK-USC/NExT)\]
+
+### 2019
 
 1. Ziqian Zheng, **Wenxuan Zhou**, Xin Liu, and Yangqiu Song. A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification. NAACL-HLT 2019. \[[paper](https://aclanthology.org/N19-1036/)\] \[[code](https://github.com/HKUST-KnowComp/VWS-DMSC)\]
 

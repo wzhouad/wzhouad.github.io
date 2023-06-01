@@ -17,7 +17,7 @@ I'm a final-year Ph.D. candidate at University of Southern California working wi
 
 ### 2023
 
-1. **Wenxuan Zhou**, Sheng Zhang, Tristan Naumann, Muhao Chen, Hoifung Poon. Continual Contrastive Finetuning Improves Low-Resource Relation Extraction. ACL 2023. \[[paper](https://arxiv.org/abs/2212.10823)\]
+1. **Wenxuan Zhou**, Sheng Zhang, Tristan Naumann, Muhao Chen, Hoifung Poon. Continual Contrastive Finetuning Improves Low-Resource Relation Extraction. ACL 2023. \[[paper](https://arxiv.org/abs/2212.10823)\] \[[slides](slides/CCF_ACL23.pdf)\]
 
 1. Keming Lu, I-Hung Hsu, **Wenxuan Zhou**, Mingyu Derek Ma, Muhao Chen. Multi-hop Evidence Retrieval for Cross-document Relation Extraction. ACL-Findings 2023. \[[paper](https://arxiv.org/abs/2212.10786)\]
 

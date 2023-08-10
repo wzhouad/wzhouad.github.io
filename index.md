@@ -13,6 +13,14 @@ I'm a final-year Ph.D. candidate at University of Southern California working wi
 * B.Sc. in Computer Science and B.Sc. in Applied Mathematics, Hong Kong University of Science and Technology, Sep. 2014 - May 2018.
 * Exchange student, University of Illinois at Urbana–Champaign, Jan. 2017 - May 2017.
 
+## Preprints
+
+1. **Wenxuan Zhou\***, Sheng Zhang\*, Yu Gu, Muhao Chen, Hoifung Poon. UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition. Arxiv 2023. \[[paper](https://arxiv.org/abs/2308.03279)\] \[[project page](https://universal-ner.github.io/)\]
+
+1. **Wenxuan Zhou**, Sheng Zhang, Hoifung Poon, Muhao Chen. Context-faithful Prompting for Large Language Models. Arxiv 2023. \[[paper](https://arxiv.org/abs/2303.11315)\] \[[code](https://github.com/wzhouad/context-faithful-llm)\]
+
+1. Tianqing Fang, **Wenxuan Zhou**, Fangyu Liu, Hongming Zhang, Yangqiu Song, Muhao Chen. On-the-fly Denoising for Data Augmentation in Natural Language Understanding. Arxiv 2022. \[[paper](https://arxiv.org/abs/2212.10558)\]
+
 ## Publications
 
 ### 2023
@@ -60,15 +68,6 @@ I'm a final-year Ph.D. candidate at University of Southern California working wi
 ### 2019
 
 1. Ziqian Zheng, **Wenxuan Zhou**, Xin Liu, Yangqiu Song. A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification. NAACL-HLT 2019. \[[paper](https://aclanthology.org/N19-1036/)\] \[[code](https://github.com/HKUST-KnowComp/VWS-DMSC)\]
-
-## Preprints
-
-1. **Wenxuan Zhou\***, Sheng Zhang\*, Yu Gu, Muhao Chen, Hoifung Poon. UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition. Arxiv 2023. \[[paper](https://arxiv.org/abs/2308.03279)\] \[[project page](https://universal-ner.github.io/)\]
-
-1. **Wenxuan Zhou**, Sheng Zhang, Hoifung Poon, Muhao Chen. Context-faithful Prompting for Large Language Models. Arxiv 2023. \[[paper](https://arxiv.org/abs/2303.11315)\] \[[code](https://github.com/wzhouad/context-faithful-llm)\]
-
-1. Tianqing Fang, **Wenxuan Zhou**, Fangyu Liu, Hongming Zhang, Yangqiu Song, Muhao Chen. On-the-fly Denoising for Data Augmentation in Natural Language Understanding. Arxiv 2022. \[[paper](https://arxiv.org/abs/2212.10558)\]
-
 
 ## Work Experience
 * Research Intern, Microsoft Research, Redmond. May 2022 - Aug 2022. (with [Sheng Zhang](https://sheng-z.github.io/), [Tristan Naumann](https://www.microsoft.com/en-us/research/people/tristan/), and [Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung/))

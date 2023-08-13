@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "Google Scholar"
-   link: "https://scholar.google.com/citations?user=HHvcwrIAAAAJ&hl=en"
+   link: "https://scholar.google.com/citations?hl=en&user=HHvcwrIAAAAJ&view_op=list_works&sortby=pubdate"
  - name: "Github"
    link: "https://github.com/wzhouad"
  - name: "CV"

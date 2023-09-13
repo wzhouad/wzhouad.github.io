@@ -6,10 +6,10 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-I'm a final-year Ph.D. candidate at University of Southern California working with [Prof. Muhao Chen](https://muhaochen.github.io/). I'm also fortunate to have worked with [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research interest lies in natural language processing and machine learning. In particular, I'm interested in (1) developing robust and generalizable knowledge acquisition models, (2) developing techniques to add or remove knowledge from LLMs, and (3) enhancing the trustworthy of LLMs. Before joining USC as a Ph.D. student, I graduated with a Bachelor's degree from HKUST in 2018.
+I received my Ph.D. at the University of Southern California where I was supervised by [Prof. Muhao Chen](https://muhaochen.github.io/). My research interest lies in natural language processing and machine learning. In particular, I'm interested in (1) developing robust and generalizable knowledge acquisition models, (2) developing techniques to add or remove knowledge from LLMs, and (3) enhancing the trustworthy of LLMs.
 
 ## Education
-* Ph.D. in Computer Science, University of Southern California, Aug. 2018 - Present.
+* Ph.D. in Computer Science, University of Southern California, Aug. 2018 - Aug. 2023.
 * B.Sc. in Computer Science and B.Sc. in Applied Mathematics, Hong Kong University of Science and Technology, Sep. 2014 - May 2018.
 * Exchange student, University of Illinois at Urbana–Champaign, Jan. 2017 - May 2017.
 

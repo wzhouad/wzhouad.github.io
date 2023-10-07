@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-I received my Ph.D. at the University of Southern California where I was supervised by [Prof. Muhao Chen](https://muhaochen.github.io/). My research interest lies in natural language processing and machine learning. In particular, I'm interested in (1) developing robust and generalizable knowledge acquisition models, (2) developing techniques to add or remove knowledge from LLMs, and (3) enhancing the trustworthy of LLMs.
+I'm an AI Research Scientist at Zoom. I received my Ph.D. at the University of Southern California where I was supervised by [Prof. Muhao Chen](https://muhaochen.github.io/). My research interest lies in natural language processing and machine learning. In particular, I'm interested in (1) developing robust and generalizable knowledge acquisition models, (2) developing techniques to add or remove knowledge from LLMs, and (3) enhancing the trustworthy of LLMs.
 
 ## Education
 * Ph.D. in Computer Science, University of Southern California, Aug. 2018 - Aug. 2023.
@@ -17,13 +17,13 @@ I received my Ph.D. at the University of Southern California where I was supervi
 
 1. **Wenxuan Zhou\***, Sheng Zhang\*, Yu Gu, Muhao Chen, Hoifung Poon. UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition. Arxiv 2023. \[[paper](https://arxiv.org/abs/2308.03279)\] \[[project page](https://universal-ner.github.io/)\]
 
-1. **Wenxuan Zhou**, Sheng Zhang, Hoifung Poon, Muhao Chen. Context-faithful Prompting for Large Language Models. Arxiv 2023. \[[paper](https://arxiv.org/abs/2303.11315)\] \[[code](https://github.com/wzhouad/context-faithful-llm)\]
-
-1. Tianqing Fang, **Wenxuan Zhou**, Fangyu Liu, Hongming Zhang, Yangqiu Song, Muhao Chen. On-the-fly Denoising for Data Augmentation in Natural Language Understanding. Arxiv 2022. \[[paper](https://arxiv.org/abs/2212.10558)\]
-
 ## Publications
 
 ### 2023
+
+1. **Wenxuan Zhou**, Sheng Zhang, Hoifung Poon, Muhao Chen. Context-faithful Prompting for Large Language Models. EMNLP-Findings 2023. \[[paper](https://arxiv.org/abs/2303.11315)\] \[[code](https://github.com/wzhouad/context-faithful-llm)\]
+
+1. Fei Wang, Wenjie Mo, Yiwei Wang, **Wenxuan Zhou**, Muhao Chen. A Causal View of Entity Bias in (Large) Language Models. EMNLP-Findings 2023. \[[paper](https://arxiv.org/abs/2305.14695)\]
 
 1. **Wenxuan Zhou**, Sheng Zhang, Tristan Naumann, Muhao Chen, Hoifung Poon. Continual Contrastive Finetuning Improves Low-Resource Relation Extraction. ACL 2023. \[[paper](https://arxiv.org/abs/2212.10823)\] \[[slides](slides/CCF_ACL23.pdf)\]
 

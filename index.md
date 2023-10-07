@@ -25,6 +25,8 @@ I'm an AI Research Scientist at Zoom. I received my Ph.D. at the University of S
 
 1. Fei Wang, Wenjie Mo, Yiwei Wang, **Wenxuan Zhou**, Muhao Chen. A Causal View of Entity Bias in (Large) Language Models. EMNLP-Findings 2023. \[[paper](https://arxiv.org/abs/2305.14695)\]
 
+1. Zekun Li, **Wenxuan Zhou**, Yao-Yi Chiang, Muhao Chen. GeoLM: Empowering Language Models for Geospatially Grounded Language Understanding. EMNLP 2023.
+
 1. **Wenxuan Zhou**, Sheng Zhang, Tristan Naumann, Muhao Chen, Hoifung Poon. Continual Contrastive Finetuning Improves Low-Resource Relation Extraction. ACL 2023. \[[paper](https://arxiv.org/abs/2212.10823)\] \[[slides](slides/CCF_ACL23.pdf)\]
 
 1. Keming Lu, I-Hung Hsu, **Wenxuan Zhou**, Mingyu Derek Ma, Muhao Chen. Multi-hop Evidence Retrieval for Cross-document Relation Extraction. ACL-Findings 2023. \[[paper](https://arxiv.org/abs/2212.10786)\] \[[code](https://github.com/luka-group/MrCoD)\]

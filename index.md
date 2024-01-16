@@ -13,11 +13,13 @@ I'm an AI Research Scientist at Zoom. I received my Ph.D. at the University of S
 * B.Sc. in Computer Science and B.Sc. in Applied Mathematics, Hong Kong University of Science and Technology, Sep. 2014 - May 2018.
 * Exchange student, University of Illinois at Urbana–Champaign, Jan. 2017 - May 2017.
 
-## Preprints
-
-1. **Wenxuan Zhou\***, Sheng Zhang\*, Yu Gu, Muhao Chen, Hoifung Poon. UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition. Arxiv 2023. \[[paper](https://arxiv.org/abs/2308.03279)\] \[[project page](https://universal-ner.github.io/)\]
 
 ## Publications
+
+### 2024
+
+1. **Wenxuan Zhou\***, Sheng Zhang\*, Yu Gu, Muhao Chen, Hoifung Poon. UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition. ICLR 2024. \[[paper](https://arxiv.org/abs/2308.03279)\] \[[project page](https://universal-ner.github.io/)\]
+
 
 ### 2023
 

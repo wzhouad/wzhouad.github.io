@@ -8,6 +8,8 @@ layout: default
 
 I'm a Research Scientist at Zoom GenAI. I received my Ph.D. at the University of Southern California where I was supervised by [Prof. Muhao Chen](https://muhaochen.github.io/). My research interest lies in natural language processing and machine learning. In particular, I'm interested in (1) developing robust and generalizable knowledge acquisition models, (2) developing techniques to add or remove knowledge from LLMs, and (3) enhancing the trustworthy of LLMs.
 
+Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
+
 ## Education
 * Ph.D. in Computer Science, University of Southern California, Aug. 2018 - Aug. 2023.
 * B.Sc. in Computer Science and B.Sc. in Applied Mathematics, Hong Kong University of Science and Technology, Sep. 2014 - May 2018.

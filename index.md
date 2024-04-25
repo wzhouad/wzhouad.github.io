@@ -22,6 +22,10 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 
 1. **Wenxuan Zhou\***, Sheng Zhang\*, Yu Gu, Muhao Chen, Hoifung Poon. UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition. ICLR 2024. \[[paper](https://arxiv.org/abs/2308.03279)\] \[[project page](https://universal-ner.github.io/)\]
 
+1. Tianqing Fang, Zhaowei Wang, **Wenxuan Zhou**, Hongming Zhang, Yangqiu Song, Muhao Chen. Getting Sick After Seeing a Doctor? Diagnosing and Mitigating Knowledge Conflicts in Event Temporal Reasoning. NAACL-Findings 2024. \[[paper](https://arxiv.org/abs/2305.14970)\]
+
+1. Tianqing Fang, **Wenxuan Zhou**, Fangyu Liu, Hongming Zhang, Yangqiu Song, Muhao Chen. On-the-fly Denoising for Data Augmentation in Natural Language Understanding. EACL-Findings 2024. \[[paper](https://arxiv.org/abs/2212.10558)\]
+
 
 ### 2023
 
@@ -75,22 +79,29 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 
 1. Ziqian Zheng, **Wenxuan Zhou**, Xin Liu, Yangqiu Song. A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification. NAACL-HLT 2019. \[[paper](https://aclanthology.org/N19-1036/)\] \[[code](https://github.com/HKUST-KnowComp/VWS-DMSC)\]
 
+## Preprints
+
+1. James Y. Huang, **Wenxuan Zhou**, Fei Wang, Fred Morstatter, Sheng Zhang, Hoifung Poon, Muhao Chen. Offset Unlearning for Large Language Models. Arxiv 2024. \[[paper](https://arxiv.org/abs/2404.11045)\]
+
+1. Tianyi Yan, Fei Wang, James Y. Huang, **Wenxuan Zhou**, Fan Yin, Aram Galstyan, Wenpeng Yin, Muhao Chen. Contrastive Instruction Tuning. Arxiv 2024. \[[paper](https://arxiv.org/abs/2402.11138)\]
+
 ## Work Experience
 * Research Intern, Microsoft Research, Redmond. May 2022 - Aug 2022. (with [Sheng Zhang](https://sheng-z.github.io/), [Tristan Naumann](https://www.microsoft.com/en-us/research/people/tristan/), and [Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung/))
-* Applied Scientist Intern, Amazon Alexa Search, Seattle. May 2021 - Aug 2021. (with [Kevin Small](http://www.kevinsmall.org/) and [Qiang Ning](https://www.qiangning.info/))
+* Applied Scientist Intern, Amazon, Seattle. May 2021 - Aug 2021. (with [Kevin Small](http://www.kevinsmall.org/) and [Qiang Ning](https://www.qiangning.info/))
 * Research Intern, JD AI Research, Mountain View. May 2020 - Aug 2020. (with [Jing Huang](https://sites.google.com/view/drjinghuang))
 * Research Intern, Bytedance AI Lab, Beijing. May 2019 - Aug 2019. (with Hang Li)
 * Research Intern, HKUST, Hong Kong. July 2017 - Feb. 2018. (with [Yangqiu Song](https://www.cse.ust.hk/~yqsong/))
 
 ## Academic Services
 * PC member:<br>
+2024: AAAI, ARR<br>
 2023: AAAI, ACL, ARR, EMNLP<br>
 2022: AAAI, ARR, NLPCC, DeepLo, AACL, EMNLP<br>
 2021: ACL, EMNLP, AAAI, NLPCC, ARR<br>
 2020: ACL, EMNLP, AAAI, AACL<br>
 2019: LLD, Repl4NLP, EMNLP, DeepLo<br>
 
-* Journal reviewer: TNNLS, NCAA<br>
+* Journal reviewer: TNNLS, NCAA, JAIR<br>
 
 * Secondary reviewer: WWW 2020<br>
 

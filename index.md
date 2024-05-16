@@ -26,6 +26,7 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 
 1. Tianqing Fang, **Wenxuan Zhou**, Fangyu Liu, Hongming Zhang, Yangqiu Song, Muhao Chen. On-the-fly Denoising for Data Augmentation in Natural Language Understanding. EACL-Findings 2024. \[[paper](https://arxiv.org/abs/2212.10558)\]
 
+1. Tianyi Yan, Fei Wang, James Y. Huang, **Wenxuan Zhou**, Fan Yin, Aram Galstyan, Wenpeng Yin, Muhao Chen. Contrastive Instruction Tuning. ACL-Findings 2024. \[[paper](https://arxiv.org/abs/2402.11138)\]
 
 ### 2023
 
@@ -82,8 +83,6 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 ## Preprints
 
 1. James Y. Huang, **Wenxuan Zhou**, Fei Wang, Fred Morstatter, Sheng Zhang, Hoifung Poon, Muhao Chen. Offset Unlearning for Large Language Models. Arxiv 2024. \[[paper](https://arxiv.org/abs/2404.11045)\]
-
-1. Tianyi Yan, Fei Wang, James Y. Huang, **Wenxuan Zhou**, Fan Yin, Aram Galstyan, Wenpeng Yin, Muhao Chen. Contrastive Instruction Tuning. Arxiv 2024. \[[paper](https://arxiv.org/abs/2402.11138)\]
 
 ## Work Experience
 * Research Intern, Microsoft Research, Redmond. May 2022 - Aug 2022. (with [Sheng Zhang](https://sheng-z.github.io/), [Tristan Naumann](https://www.microsoft.com/en-us/research/people/tristan/), and [Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung/))

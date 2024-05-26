@@ -93,7 +93,7 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 
 ## Academic Services
 * PC member:<br>
-2024: AAAI, ARR<br>
+2024: AAAI, ARR, NeurIPS, Repl4NLP<br>
 2023: AAAI, ACL, ARR, EMNLP<br>
 2022: AAAI, ARR, NLPCC, DeepLo, AACL, EMNLP<br>
 2021: ACL, EMNLP, AAAI, NLPCC, ARR<br>

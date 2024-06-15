@@ -16,6 +16,13 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 * Exchange student, University of Illinois at Urbana–Champaign, Jan. 2017 - May 2017.
 
 
+## Preprints
+
+1. James Y. Huang, **Wenxuan Zhou**, Fei Wang, Fred Morstatter, Sheng Zhang, Hoifung Poon, Muhao Chen. Offset Unlearning for Large Language Models. Arxiv 2024. \[[paper](https://arxiv.org/abs/2404.11045)\]
+
+1. Fei Wang, Xingyu Fu, James Y. Huang, Zekun Li, Qin Liu, Xiaogeng Liu, Mingyu Derek Ma, Nan Xu, **Wenxuan Zhou**, Kai Zhang, Tianyi Lorena Yan, Wenjie Jacky Mo, Hsiang-Hui Liu, Pan Lu, Chunyuan Li, Chaowei Xiao, Kai-Wei Chang, Dan Roth, Sheng Zhang, Hoifung Poon, Muhao Chen. MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding. Arxiv 2024. \[[paper](https://arxiv.org/abs/2406.09411)\]
+
+
 ## Publications
 
 ### 2024
@@ -80,9 +87,6 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 
 1. Ziqian Zheng, **Wenxuan Zhou**, Xin Liu, Yangqiu Song. A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification. NAACL-HLT 2019. \[[paper](https://aclanthology.org/N19-1036/)\] \[[code](https://github.com/HKUST-KnowComp/VWS-DMSC)\]
 
-## Preprints
-
-1. James Y. Huang, **Wenxuan Zhou**, Fei Wang, Fred Morstatter, Sheng Zhang, Hoifung Poon, Muhao Chen. Offset Unlearning for Large Language Models. Arxiv 2024. \[[paper](https://arxiv.org/abs/2404.11045)\]
 
 ## Work Experience
 * Research Intern, Microsoft Research, Redmond. May 2022 - Aug 2022. (with [Sheng Zhang](https://sheng-z.github.io/), [Tristan Naumann](https://www.microsoft.com/en-us/research/people/tristan/), and [Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung/))
@@ -91,7 +95,10 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 * Research Intern, Bytedance AI Lab, Beijing. May 2019 - Aug 2019. (with Hang Li)
 * Research Intern, HKUST, Hong Kong. July 2017 - Feb. 2018. (with [Yangqiu Song](https://www.cse.ust.hk/~yqsong/))
 
+
 ## Academic Services
+* Area chair: <br>
+2024: ARR<br>
 * PC member:<br>
 2024: AAAI, ARR, NeurIPS, Repl4NLP<br>
 2023: AAAI, ACL, ARR, EMNLP<br>

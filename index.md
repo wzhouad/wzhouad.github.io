@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-I'm a Research Scientist at Zoom GenAI. I received my Ph.D. at the University of Southern California where I was supervised by [Prof. Muhao Chen](https://muhaochen.github.io/). My research interest lies in natural language processing and machine learning. In particular, I'm interested in (1) developing robust and generalizable knowledge acquisition models, (2) developing techniques to add or remove knowledge from LLMs, and (3) enhancing the trustworthy of LLMs.
+I'm a Research Scientist at Zoom GenAI. I received my Ph.D. at the University of Southern California where I was supervised by [Prof. Muhao Chen](https://muhaochen.github.io/). My research interest lies in natural language processing and machine learning. In particular, I'm interested in aligning large language models with human values, as well as editing or removing parametric knowledge from large language models.
 
 Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 

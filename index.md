@@ -26,6 +26,8 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 
 1. Fei Wang, **Wenxuan Zhou**, James Y. Huang, Nan Xu, Sheng Zhang, Hoifung Poon, Muhao Chen. mDPO: Conditional Preference Optimization for Multimodal Large Language Models. Arxiv 2024. \[[paper](https://arxiv.org/abs/2406.11839)\] \[[code](https://github.com/luka-group/mDPO)\]
 
+1. Sathish Reddy Indurthi, **Wenxuan Zhou**, Shamil Chollampatt, Ravi Agrawal, Kaiqiang Song, Lingxiao Zhao, Chenguang Zhu. Improving Multilingual Instruction Finetuning via Linguistically Natural and Diverse Datasets. Arxvi 2024. \[[paper](https://arxiv.org/abs/2407.01853)\]
+
 
 ## Publications
 

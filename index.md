@@ -22,16 +22,16 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 
 1. Fei Wang, Xingyu Fu, James Y. Huang, Zekun Li, Qin Liu, Xiaogeng Liu, Mingyu Derek Ma, Nan Xu, **Wenxuan Zhou**, Kai Zhang, Tianyi Lorena Yan, Wenjie Jacky Mo, Hsiang-Hui Liu, Pan Lu, Chunyuan Li, Chaowei Xiao, Kai-Wei Chang, Dan Roth, Sheng Zhang, Hoifung Poon, Muhao Chen. MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding. Arxiv 2024. \[[paper](https://arxiv.org/abs/2406.09411)\]
 
-1. **Wenxuan Zhou**, Ravi Agrawal, Shujian Zhang, Sathish Reddy Indurthi, Sanqiang Zhao, Kaiqiang Song, Silei Xu, Chenguang Zhu. WPO: Enhancing RLHF with Weighted Preference Optimization. Arxiv 2024. \[[paper](https://arxiv.org/abs/2406.11827)\] \[[code](https://github.com/wzhouad/WPO)\]
-
-1. Fei Wang, **Wenxuan Zhou**, James Y. Huang, Nan Xu, Sheng Zhang, Hoifung Poon, Muhao Chen. mDPO: Conditional Preference Optimization for Multimodal Large Language Models. Arxiv 2024. \[[paper](https://arxiv.org/abs/2406.11839)\] \[[code](https://github.com/luka-group/mDPO)\]
-
-1. Sathish Reddy Indurthi, **Wenxuan Zhou**, Shamil Chollampatt, Ravi Agrawal, Kaiqiang Song, Lingxiao Zhao, Chenguang Zhu. Improving Multilingual Instruction Finetuning via Linguistically Natural and Diverse Datasets. Arxvi 2024. \[[paper](https://arxiv.org/abs/2407.01853)\]
-
 
 ## Publications
 
 ### 2024
+
+1. **Wenxuan Zhou**, Ravi Agrawal, Shujian Zhang, Sathish Reddy Indurthi, Sanqiang Zhao, Kaiqiang Song, Silei Xu, Chenguang Zhu. WPO: Enhancing RLHF with Weighted Preference Optimization. EMNLP 2024. \[[paper](https://arxiv.org/abs/2406.11827)\] \[[code](https://github.com/wzhouad/WPO)\]
+
+1. Fei Wang, **Wenxuan Zhou**, James Y. Huang, Nan Xu, Sheng Zhang, Hoifung Poon, Muhao Chen. mDPO: Conditional Preference Optimization for Multimodal Large Language Models. EMNLP 2024. \[[paper](https://arxiv.org/abs/2406.11839)\] \[[code](https://github.com/luka-group/mDPO)\]
+
+1. Sathish Reddy Indurthi, **Wenxuan Zhou**, Shamil Chollampatt, Ravi Agrawal, Kaiqiang Song, Lingxiao Zhao, Chenguang Zhu. Improving Multilingual Instruction Finetuning via Linguistically Natural and Diverse Datasets. EMNLP-Findings 2024. \[[paper](https://arxiv.org/abs/2407.01853)\]
 
 1. **Wenxuan Zhou\***, Sheng Zhang\*, Yu Gu, Muhao Chen, Hoifung Poon. UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition. ICLR 2024. \[[paper](https://arxiv.org/abs/2308.03279)\] \[[project page](https://universal-ner.github.io/)\]
 

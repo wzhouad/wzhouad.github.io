@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-I'm a Research Scientist at Zoom GenAI. I received my Ph.D. at the University of Southern California where I was supervised by [Prof. Muhao Chen](https://muhaochen.github.io/). My research interest lies in natural language processing and machine learning. In particular, I'm interested in aligning large language models with human values, as well as editing or removing parametric knowledge from large language models.
+I'm a Research Scientist at Zoom GenAI. I received my Ph.D. at the University of Southern California where I was supervised by [Prof. Muhao Chen](https://muhaochen.github.io/). My research interest lies in natural language processing and machine learning. In particular, I'm interested in post-training of large language models, especially in instruction tuning, preference modeling, and reinforcement learning from human feedback.
 
 Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 
@@ -22,18 +22,20 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 
 1. Fei Wang, Xingyu Fu, James Y. Huang, Zekun Li, Qin Liu, Xiaogeng Liu, Mingyu Derek Ma, Nan Xu, **Wenxuan Zhou**, Kai Zhang, Tianyi Lorena Yan, Wenjie Jacky Mo, Hsiang-Hui Liu, Pan Lu, Chunyuan Li, Chaowei Xiao, Kai-Wei Chang, Dan Roth, Sheng Zhang, Hoifung Poon, Muhao Chen. MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding. Arxiv 2024. \[[paper](https://arxiv.org/abs/2406.09411)\]
 
+1. Tong Wu, Shujian Zhang, Kaiqiang Song, Silei Xu, Sanqiang Zhao, Ravi Agrawal, Sathish Reddy Indurthi, Chong Xiang, Prateek Mittal, **Wenxuan Zhou**. Instructional Segment Embedding: Improving LLM Safety with Instruction Hierarchy. Arxiv 2024. \[[paper](https://arxiv.org/abs/2410.09102)\]
+
 
 ## Publications
 
 ### 2024
 
-1. **Wenxuan Zhou**, Ravi Agrawal, Shujian Zhang, Sathish Reddy Indurthi, Sanqiang Zhao, Kaiqiang Song, Silei Xu, Chenguang Zhu. WPO: Enhancing RLHF with Weighted Preference Optimization. EMNLP 2024. \[[paper](https://arxiv.org/abs/2406.11827)\] \[[code](https://github.com/wzhouad/WPO)\]
+1. **Wenxuan Zhou**, Ravi Agrawal, Shujian Zhang, Sathish Reddy Indurthi, Sanqiang Zhao, Kaiqiang Song, Silei Xu, Chenguang Zhu. WPO: Enhancing RLHF with Weighted Preference Optimization. EMNLP 2024. \[[paper](https://arxiv.org/abs/2406.11827)\] \[[code](https://github.com/wzhouad/WPO)\] \[[model](https://huggingface.co/collections/wzhouad/wpo-66a04e4f552c0be180da2931)\]
 
 1. Fei Wang, **Wenxuan Zhou**, James Y. Huang, Nan Xu, Sheng Zhang, Hoifung Poon, Muhao Chen. mDPO: Conditional Preference Optimization for Multimodal Large Language Models. EMNLP 2024. \[[paper](https://arxiv.org/abs/2406.11839)\] \[[code](https://github.com/luka-group/mDPO)\]
 
 1. Sathish Reddy Indurthi, **Wenxuan Zhou**, Shamil Chollampatt, Ravi Agrawal, Kaiqiang Song, Lingxiao Zhao, Chenguang Zhu. Improving Multilingual Instruction Finetuning via Linguistically Natural and Diverse Datasets. EMNLP-Findings 2024. \[[paper](https://arxiv.org/abs/2407.01853)\]
 
-1. **Wenxuan Zhou\***, Sheng Zhang\*, Yu Gu, Muhao Chen, Hoifung Poon. UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition. ICLR 2024. \[[paper](https://arxiv.org/abs/2308.03279)\] \[[project page](https://universal-ner.github.io/)\]
+1. **Wenxuan Zhou\***, Sheng Zhang\*, Yu Gu, Muhao Chen, Hoifung Poon. UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition. ICLR 2024. \[[paper](https://arxiv.org/abs/2308.03279)\] \[[project page](https://universal-ner.github.io/)\] \[[model](https://huggingface.co/Universal-NER)\]
 
 1. Tianqing Fang, Zhaowei Wang, **Wenxuan Zhou**, Hongming Zhang, Yangqiu Song, Muhao Chen. Getting Sick After Seeing a Doctor? Diagnosing and Mitigating Knowledge Conflicts in Event Temporal Reasoning. NAACL-Findings 2024. \[[paper](https://arxiv.org/abs/2305.14970)\]
 
@@ -57,6 +59,8 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 
 1. Xiaoocong Yang, James Y. Huang, **Wenxuan Zhou**, Muhao Chen. Parameter-Efficient Tuning with Special Token Adaptation. EACL 2023. \[[paper](https://arxiv.org/abs/2210.04382)\] \[[code](https://github.com/luka-group/PASTA)\]
 
+1. **Wenxuan Zhou**. Robust and Generalizable Knowledge Acquisition from Text. Ph.D. thesis. \[[pdf](slides/thesis.pdf)\]
+
 ### 2022
 
 1. **Wenxuan Zhou**, Fangyu Liu, Huan Zhang, Muhao Chen. Sharpness-Aware Minimization with Dynamic Reweighting. EMNLP-Findings 2022. \[[paper](https://arxiv.org/abs/2112.08772)]
@@ -71,7 +75,7 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 
 1. Yiwei Wang, Muhao Chen, **Wenxuan Zhou**, Yujun Cai, Yuxuan Liang, Bryan Hooi. GraphCache: Message Passing as Caching for Sentence-Level Relation Extraction. NAACL-Findings 2022. \[[paper](https://arxiv.org/abs/2205.03786)]
 
-1. **Wenxuan Zhou\***, Fangyu Liu\*, Ivan Vulić, Nigel Collier, Muhao Chen. Prix-LM: Pretraining for Multilingual Knowledge Base Construction. ACL 2022. \[[paper](https://aclanthology.org/2022.acl-long.371/)] \[[code](https://github.com/luka-group/prix-lm)\] \[[slides](slides/Pirx-LM_ACL22.pdf)\]
+1. **Wenxuan Zhou\***, Fangyu Liu\*, Ivan Vulić, Nigel Collier, Muhao Chen. Prix-LM: Pretraining for Multilingual Knowledge Base Construction. ACL 2022. \[[paper](https://aclanthology.org/2022.acl-long.371/)] \[[code](https://github.com/luka-group/prix-lm)\] \[[slides](slides/Pirx-LM_ACL22.pdf)\] \[[model](https://huggingface.co/wzhouad/prix-lm)\]
 
 ### 2021
 
@@ -106,6 +110,7 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 * Area chair: <br>
 2024: ARR<br>
 * PC member:<br>
+2025: ICLR<br>
 2024: AAAI, ARR, NeurIPS, Repl4NLP<br>
 2023: AAAI, ACL, ARR, EMNLP<br>
 2022: AAAI, ARR, NLPCC, DeepLo, AACL, EMNLP<br>

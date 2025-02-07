@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-I'm a research scientist at Zoom GenAI. My research focuses on natural language processing and machine learning, with a particular emphasis on the post-training of large language models. I am especially interested in instruction tuning, preference modeling, and reinforcement learning from human feedback. I earned my Ph.D. from the University of Southern California under the mentorship of [Prof. Muhao Chen](https://muhaochen.github.io/). Prior to that, I obtained my Bachelor's degree in Computer Science and Applied Mathematics from HKUST in 2014.
+My research focuses on natural language processing and machine learning, with a particular emphasis on the post-training of large language models. I am especially interested in instruction tuning, preference modeling, and reinforcement learning from human feedback. I earned my Ph.D. from the University of Southern California under the mentorship of [Prof. Muhao Chen](https://muhaochen.github.io/). Prior to that, I obtained my Bachelor's degree in Computer Science and Applied Mathematics from HKUST in 2014.
 
 Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 
@@ -14,6 +14,8 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 1. **Wenxuan Zhou**, Shujian Zhang, Lingxiao Zhao, Tao Meng. T-REG: Preference Optimization with Token-Level Reward Regularization. Arxiv 2024. \[[paper](https://arxiv.org/abs/2412.02685)\]
 
 1. James Y. Huang, **Wenxuan Zhou**, Fei Wang, Fred Morstatter, Sheng Zhang, Hoifung Poon, Muhao Chen. Offset Unlearning for Large Language Models. Arxiv 2024. \[[paper](https://arxiv.org/abs/2404.11045)\]
+
+1. Tong Liu, Xiao Yu, **Wenxuan Zhou**, Jindong Gu, Volker Tresp. FocalPO: Enhancing Preference Optimizing by Focusing on Correct Preference Rankings. Arxiv 2025. \[[paper](https://arxiv.org/abs/2501.06645)\]
 
 
 ## Publication

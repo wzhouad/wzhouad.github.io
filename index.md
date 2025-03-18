@@ -17,6 +17,12 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 
 1. Tong Liu, Xiao Yu, **Wenxuan Zhou**, Jindong Gu, Volker Tresp. FocalPO: Enhancing Preference Optimizing by Focusing on Correct Preference Rankings. Arxiv 2025. \[[paper](https://arxiv.org/abs/2501.06645)\]
 
+1. Xiaofei Wen, **Wenxuan Zhou**, Wenjie Jacky Mo, Muhao Chen. ThinkGuard: Deliberative Slow Thinking Leads to Cautious Guardrails. \[[paper](https://arxiv.org/abs/2502.13458)\]
+
+1. Bangzheng Li, Fei Wang, **Wenxuan Zhou**, Nan Xu, Ben Zhou, Sheng Zhang, Hoifung Poon, Muhao Chen, Semantic-Clipping: Efficient Vision-Language Modeling with Semantic-Guidedd Visual Selection. Arxiv 2025. \[[paper](https://arxiv.org/abs/2503.11794)\]
+
+1. Qin Liu, **Wenxuan Zhou**, Nan Xu, James Y. Huang, Fei Wang, Sheng Zhang, Hoifung Poon, Muhao Chen. MetaScale: Test-Time Scaling with Evolving Meta-Thoughts. Arxiv 2025.  \[[paper](https://arxiv.org/abs/2503.13447)\]
+
 
 ## Publication
 

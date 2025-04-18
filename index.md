@@ -13,8 +13,6 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 
 1. **Wenxuan Zhou**, Shujian Zhang, Lingxiao Zhao, Tao Meng. T-REG: Preference Optimization with Token-Level Reward Regularization. Arxiv 2024. \[[paper](https://arxiv.org/abs/2412.02685)\]
 
-1. James Y. Huang, **Wenxuan Zhou**, Fei Wang, Fred Morstatter, Sheng Zhang, Hoifung Poon, Muhao Chen. Offset Unlearning for Large Language Models. Arxiv 2024. \[[paper](https://arxiv.org/abs/2404.11045)\]
-
 1. Tong Liu, Xiao Yu, **Wenxuan Zhou**, Jindong Gu, Volker Tresp. FocalPO: Enhancing Preference Optimizing by Focusing on Correct Preference Rankings. Arxiv 2025. \[[paper](https://arxiv.org/abs/2501.06645)\]
 
 1. Xiaofei Wen, **Wenxuan Zhou**, Wenjie Jacky Mo, Muhao Chen. ThinkGuard: Deliberative Slow Thinking Leads to Cautious Guardrails. \[[paper](https://arxiv.org/abs/2502.13458)\]
@@ -34,6 +32,8 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 <div id="publications-by-year" markdown="1" style="display: none;">
 
 ### 2025
+
+1. James Y. Huang, **Wenxuan Zhou**, Fei Wang, Fred Morstatter, Sheng Zhang, Hoifung Poon, Muhao Chen. Offset Unlearning for Large Language Models. TMLR 2025. \[[paper](https://arxiv.org/abs/2404.11045)\]
 
 1. Fei Wang, Xingyu Fu, James Y. Huang, Zekun Li, Qin Liu, Xiaogeng Liu, Mingyu Derek Ma, Nan Xu, **Wenxuan Zhou**, Kai Zhang, Tianyi Lorena Yan, Wenjie Jacky Mo, Hsiang-Hui Liu, Pan Lu, Chunyuan Li, Chaowei Xiao, Kai-Wei Chang, Dan Roth, Sheng Zhang, Hoifung Poon, Muhao Chen. MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding. ICLR 2025. \[[paper](https://arxiv.org/abs/2406.09411)\]
 

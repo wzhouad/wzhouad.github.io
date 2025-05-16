@@ -11,12 +11,6 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 
 ## Preprints
 
-1. **Wenxuan Zhou**, Shujian Zhang, Lingxiao Zhao, Tao Meng. T-REG: Preference Optimization with Token-Level Reward Regularization. Arxiv 2024. \[[paper](https://arxiv.org/abs/2412.02685)\]
-
-1. Tong Liu, Xiao Yu, **Wenxuan Zhou**, Jindong Gu, Volker Tresp. FocalPO: Enhancing Preference Optimizing by Focusing on Correct Preference Rankings. Arxiv 2025. \[[paper](https://arxiv.org/abs/2501.06645)\]
-
-1. Xiaofei Wen, **Wenxuan Zhou**, Wenjie Jacky Mo, Muhao Chen. ThinkGuard: Deliberative Slow Thinking Leads to Cautious Guardrails. \[[paper](https://arxiv.org/abs/2502.13458)\]
-
 1. Bangzheng Li, Fei Wang, **Wenxuan Zhou**, Nan Xu, Ben Zhou, Sheng Zhang, Hoifung Poon, Muhao Chen, Semantic-Clipping: Efficient Vision-Language Modeling with Semantic-Guidedd Visual Selection. Arxiv 2025. \[[paper](https://arxiv.org/abs/2503.11794)\]
 
 1. Qin Liu, **Wenxuan Zhou**, Nan Xu, James Y. Huang, Fei Wang, Sheng Zhang, Hoifung Poon, Muhao Chen. MetaScale: Test-Time Scaling with Evolving Meta-Thoughts. Arxiv 2025.  \[[paper](https://arxiv.org/abs/2503.13447)\]
@@ -32,6 +26,12 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 <div id="publications-by-year" markdown="1" style="display: none;">
 
 ### 2025
+
+1. **Wenxuan Zhou**, Shujian Zhang, Lingxiao Zhao, Tao Meng. T-REG: Preference Optimization with Token-Level Reward Regularization. ACL 2025. \[[paper](https://arxiv.org/abs/2412.02685)\]
+
+1. Tong Liu, Xiao Yu, **Wenxuan Zhou**, Jindong Gu, Volker Tresp. FocalPO: Enhancing Preference Optimizing by Focusing on Correct Preference Rankings. ACL 2025. \[[paper](https://arxiv.org/abs/2501.06645)\]
+
+1. Xiaofei Wen, **Wenxuan Zhou**, Wenjie Jacky Mo, Muhao Chen. ThinkGuard: Deliberative Slow Thinking Leads to Cautious Guardrails. ACL-Findings 2025. \[[paper](https://arxiv.org/abs/2502.13458)\]
 
 1. James Y. Huang, **Wenxuan Zhou**, Fei Wang, Fred Morstatter, Sheng Zhang, Hoifung Poon, Muhao Chen. Offset Unlearning for Large Language Models. TMLR 2025. \[[paper](https://arxiv.org/abs/2404.11045)\]
 

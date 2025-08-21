@@ -27,6 +27,8 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 
 ### 2025
 
+1. Dongwon Jung, **Wenxuan Zhou**, Muhao Chen. Code Execution as Grounded Supervision for LLM Reasoning. EMNLP 2025. \[[paper](https://arxiv.org/abs/2506.10343)\]
+
 1. **Wenxuan Zhou**, Shujian Zhang, Lingxiao Zhao, Tao Meng. T-REG: Preference Optimization with Token-Level Reward Regularization. ACL 2025. \[[paper](https://arxiv.org/abs/2412.02685)\]
 
 1. Tong Liu, Xiao Yu, **Wenxuan Zhou**, Jindong Gu, Volker Tresp. FocalPO: Enhancing Preference Optimizing by Focusing on Correct Preference Rankings. ACL 2025. \[[paper](https://arxiv.org/abs/2501.06645)\]

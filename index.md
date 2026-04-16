@@ -11,10 +11,13 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 
 ## Preprints
 
+1. Wenjie Jacky Mo, Qin Liu, Xiaofei Wen, **Wenxuan Zhou**, Zhe Zhao, Muhao Chen. DEBUGLM: Learning Traceable Training Data Provenance for LLMs. Arxiv 2026. \[[paper](https://arxiv.org/abs/2603.17884)\]
+
+1. Zhenyu Zhang, Shujian Zhang, John Lambert, **Wenxuan Zhou**, Zhangyang Wang, Mingqing Chen, Andrew Hard, Rajiv Mathews, Lun Wang. Fantastic Reasoning Behaviors and Where to Find Them: Unsupervised Discovery of the Reasoning Process. Arxiv 2025. \[[paper](https://arxiv.org/abs/2512.23988)\]
+
 1. Bangzheng Li, Fei Wang, **Wenxuan Zhou**, Nan Xu, Ben Zhou, Sheng Zhang, Hoifung Poon, Muhao Chen, Semantic-Clipping: Efficient Vision-Language Modeling with Semantic-Guidedd Visual Selection. Arxiv 2025. \[[paper](https://arxiv.org/abs/2503.11794)\]
 
-1. Qin Liu, **Wenxuan Zhou**, Nan Xu, James Y. Huang, Fei Wang, Sheng Zhang, Hoifung Poon, Muhao Chen. MetaScale: Test-Time Scaling with Evolving Meta-Thoughts. Arxiv 2025.  \[[paper](https://arxiv.org/abs/2503.13447)\]
-
+1. Wenzhe Li, Shujian Zhang, **Wenxuan Zhou**, John Lambert, Chi Jin, Andrew Hard, Rajiv Mathews, Lun Wang. MUSIC: MUlti-Step Instruction Contrast for Multi-Turn Reward Models. Arxiv 2025. \[[paper](https://arxiv.org/pdf/2512.24693)\]
 
 ## Publication
 
@@ -24,6 +27,14 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 </p>
 
 <div id="publications-by-year" markdown="1" style="display: none;">
+
+### 2026
+
+1. Qin Liu, **Wenxuan Zhou**, Nan Xu, James Y. Huang, Fei Wang, Sheng Zhang, Hoifung Poon, Muhao Chen. MetaScale: Test-Time Scaling with Evolving Meta-Thoughts. ACL-Findings 2026. \[[paper](https://arxiv.org/abs/2503.13447)\]
+
+1. Wenjie Jacky Mo, Qin Liu, Xiaofei Wen, Dongwon Jung, Hadi Askari, **Wenxuan Zhou**, Zhe Zhao, Muhao Chen. RedCoder: Automated Multi-Turn Red Teaming for Code LLMs. ACL 2026. \[[paper](https://arxiv.org/abs/2507.22063)\]
+
+1. Cheng Wang, Qin Liu, **Wenxuan Zhou**, Muhao Chen. Taming Extreme Tokens: Covariance-Aware GRPO with Gaussian-Kernel Advantage Reweighting. ACL 2026.
 
 ### 2025
 
@@ -125,11 +136,13 @@ Email: A [at] B, where A=wenxuan.zhou.usc and B is gmail.com
 
 ### LM Safety and Faithfulness
 
+1. Wenjie Jacky Mo, Qin Liu, Xiaofei Wen, **Wenxuan Zhou**, Zhe Zhao, Muhao Chen. DEBUGLM: Learning Traceable Training Data Provenance for LLMs. Arxiv 2026. \[[paper](https://arxiv.org/abs/2603.17884)\]
+
+1. Zhenyu Zhang, Shujian Zhang, John Lambert, **Wenxuan Zhou**, Zhangyang Wang, Mingqing Chen, Andrew Hard, Rajiv Mathews, Lun Wang. Fantastic Reasoning Behaviors and Where to Find Them: Unsupervised Discovery of the Reasoning Process. Arxiv 2025. \[[paper](https://arxiv.org/abs/2512.23988)\]
+
+1. Wenjie Jacky Mo, Qin Liu, Xiaofei Wen, Dongwon Jung, Hadi Askari, **Wenxuan Zhou**, Zhe Zhao, Muhao Chen. RedCoder: Automated Multi-Turn Red Teaming for Code LLMs. ACL 2026. \[[paper](https://arxiv.org/abs/2507.22063)\]
+
 1. Tong Wu, Shujian Zhang, Kaiqiang Song, Silei Xu, Sanqiang Zhao, Ravi Agrawal, Sathish Reddy Indurthi, Chong Xiang, Prateek Mittal, **Wenxuan Zhou**. Instructional Segment Embedding: Improving LLM Safety with Instruction Hierarchy. ICLR 2025. \[[paper](https://arxiv.org/abs/2410.09102)\]
-
-1. **Wenxuan Zhou**, Sheng Zhang, Hoifung Poon, Muhao Chen. Context-faithful Prompting for Large Language Models. EMNLP-Findings 2023. \[[paper](https://arxiv.org/abs/2303.11315)\] \[[code](https://github.com/wzhouad/context-faithful-llm)\]
-
-1. **Wenxuan Zhou**, Fangyu Liu, Muhao Chen. Contrastive Out-of-Distribution Detection for Pretrained Transformers. EMNLP 2021. \[[paper](https://aclanthology.org/2021.emnlp-main.84/)\] \[[code](https://github.com/wzhouad/Contra-OOD)\] \[[slides](slides/OOD_EMNLP21.pdf)\]
 
 
 ### Information Extraction
